@@ -62,6 +62,7 @@
   {% render 'theme-setup' %}
   {% render 'theme-setting-vars' %}
   {{ 'theme.css' | asset_url | stylesheet_tag }}
+  {{ 'custom.css' | asset_url | stylesheet_tag }}
 
   {{ content_for_header }}
 </head>
@@ -116,6 +117,7 @@
   {% else %}
     {% comment %}This is the ES Module for modern browsers.  This features code splitting {% endcomment %}
     <script type="module" src="{{ 'theme.js' | asset_url }}" ></script>
+    <script type="module" src="{{ 'custom.js' | asset_url }}" ></script>
 
     {% comment %}This is the fallback for browsers that don't support ES Modules, code-splitting is supported by systemJS{% endcomment %}
     <script nomodule src="{{ 's.min.js' | asset_url }}"></script>
