@@ -1,0 +1,33 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "show_date": true
+          }
+        },
+        "05d6cd03-14f6-4c77-a30f-53215eff329b": {
+          "type": "summary",
+          "settings": {
+            "show_link": true
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "05d6cd03-14f6-4c77-a30f-53215eff329b"
+      ],
+      "settings": {
+        "show_rss": true,
+        "articles_per_row": 3,
+        "aspect_ratio": "square"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

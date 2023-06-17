@@ -1,0 +1,201 @@
+{
+  "sections": {
+    "1655153739a30cddf4": {
+      "type": "slideshow",
+      "blocks": {
+        "1655153739672f219f-1": {
+          "type": "slide",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/Webp.net-resizeimage.jpg",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "Welcome to The Rebis",
+            "subheading": "<p>A space dedicated to exploring the relationship between tarot and creativity through essays, poetry, interviews, and art.<\/p>",
+            "heading_text_size": 64,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "Learn more",
+            "link": "",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "1655153739672f219f-1"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "duration_autoplay": 6,
+        "color_dot": "#ffffff"
+      }
+    },
+    "16551539499a5f2bf5": {
+      "type": "rich-text",
+      "blocks": {
+        "1655153949f8e4711d-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "text_max_width": 42
+          }
+        },
+        "1655153949f8e4711d-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p><strong>About the magazine<br\/><br\/><\/strong>Creative writing and art inspired by tarot. Stories that weave together psychology, mythology, and spirituality. A community of multidimensional thinkers, writers, and artists.<\/p><p>The Rebis is a physical magazine and a <a href=\"https:\/\/therebis.substack.com\/\" target=\"_blank\" title=\"https:\/\/therebis.substack.com\/\">digital newsletter<\/a>. Each print issue will focus on one card, where every contributor's interpretation adds layers of richness and depth. The <a href=\"https:\/\/therebis.substack.com\/\" target=\"_blank\" title=\"https:\/\/therebis.substack.com\/\">newsletter<\/a> unpacks broader themes of tarot and the creative process.<\/p><p>~<\/p><p><strong>About the name<br\/><br\/><\/strong>We take our name, The Rebis, from medieval alchemy and the pursuit of the philosopher’s stone. In many ways, alchemists were looking for the spiritual in the material — they hoped to transmute base metals into gold and find a universal elixir for immortality. <\/p><p>The Rebis references the final stage of the process, where substances with opposing qualities are brought together and transformed into something new — an alchemical magnum opus. The name comes from the Latin <em>res bina<\/em>, meaning <em>double matter<\/em>.<\/p><p>In 1968, Carl Jung published \"<a href=\"https:\/\/iaap.org\/resources\/academic-resources\/collected-works-abstracts\/volume-12-psychology-alchemy\/\" title=\"https:\/\/iaap.org\/resources\/academic-resources\/collected-works-abstracts\/volume-12-psychology-alchemy\/\">Psychology and Alchemy<\/a>,\" drawing parallels between the process of alchemical transformation and psychological development. <\/p><p>In this context, The Rebis becomes a metaphor for the harmonious union of opposites: spirit and matter, soul and body, light and shadow. <\/p><p>This concept instinctively felt like a fitting name for a publication devoted to tarot and creativity, to the pursuit of integrating the conscious with the unconscious and finding wholeness within.<\/p><p>~<\/p><p><strong>A not-for-profit magazine<\/strong><\/p><p>The Rebis commits to amplifying and centering underrepresented voices, paying artists and writers fairly for their work, and redistributing profits to social justice causes. <\/p><p>After accounting for operating costs, profits from The Rebis will go to organizations committed to reparations and reproductive justice: <a href=\"https:\/\/sogoreate-landtrust.org\/\" title=\"https:\/\/sogoreate-landtrust.org\/\">The Sogorea Te Land Trust<\/a>, <a href=\"https:\/\/abortionfunds.org\/\" title=\"https:\/\/abortionfunds.org\/\">The National Network of Abortion Funds<\/a>, and <a href=\"https:\/\/decolonizingwealth.com\/liberated-capital\/\" title=\"https:\/\/decolonizingwealth.com\/liberated-capital\/\">Liberated Capital<\/a>.<\/p>",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "1655153949f8e4711d-0",
+        "1655153949f8e4711d-1"
+      ],
+      "settings": {
+        "section_contrast": false
+      }
+    },
+    "main": {
+      "type": "main-page--about",
+      "disabled": true,
+      "blocks": {
+        "5cd9bd78-ec4f-4bd7-ba3d-88421f639b7a": {
+          "type": "media",
+          "settings": {
+            "video_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "5cd9bd78-ec4f-4bd7-ba3d-88421f639b7a"
+      ],
+      "settings": {
+        "intro": "",
+        "content_max_width": 700
+      }
+    },
+    "16551543079f71b3fc": {
+      "type": "rich-text",
+      "blocks": {
+        "16551543073588a137-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p>\"If we can stay with the tension of opposites long enough — sustain it, be true to it — we can sometimes become vessels within which the divine opposites come together and give birth to a new reality.\"<br\/><br\/> — Marie-Louise von Franz<\/p>",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "16551543073588a137-1"
+      ],
+      "settings": {
+        "section_contrast": false
+      }
+    },
+    "165517538274b9a77d": {
+      "type": "rich-text",
+      "blocks": {
+        "16551753825a50e42e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Meet the editorial team",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "16551753825a50e42e-0"
+      ],
+      "settings": {
+        "section_contrast": false
+      }
+    },
+    "16551535679f8d6ca2": {
+      "type": "image-with-text",
+      "blocks": {
+        "1655153567fcb9ab79-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Hannah Levy",
+            "text_max_width": 32
+          }
+        },
+        "1655153567fcb9ab79-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p><em>Founder and editor <\/em><\/p><p>Hannah is a writer and editor living in Berkeley, CA who credits tarot with unearthing her most provocative ideas. In her past lives, Hannah led content marketing and brand strategy for tech companies and served as editor-in-chief of an independent music blog. When she’s not reading and writing, you can find her hiking in the redwoods, volunteering at a local rose garden, and playing extensive make-believe games with her daughter. She's been pulling the Fool card a lot lately – reflecting on the wisdom gained by inviting more risk-taking and adventure into her life. <a href=\"https:\/\/hannaheve.com\/\" target=\"_blank\" title=\"https:\/\/hannaheve.com\/\">hannaheve.com<\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "1655153567fcb9ab79-0",
+        "1655153567fcb9ab79-1"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Hannah_Jeff2022-77.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "1655175278b1f7084f": {
+      "type": "image-with-text",
+      "blocks": {
+        "16551752784ed2bf01-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Xaviera Lopez ",
+            "text_max_width": 32
+          }
+        },
+        "16551752784ed2bf01-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p><em>Creative director and artist <\/em><\/p><p>Xaviera López is a Chilean artist and animator. Her linear drawings, animations, and short format looping videos incorporate simplified yet highly contextual self portraits and images that display the meeting place of the material and the ethereal, and challenge perceived delineations between the felt and seen. Traversing the bounds of her ever-evolving artistic practice, editorial art, film, and advertising, her visuals simultaneously evoke the versatility and stirring qualities of the trickster with the comfort of what is familiar and true. Tarot seems like a whole universe she is entering back into. <a href=\"https:\/\/www.instagram.com\/xavieralopez\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/xavieralopez\/\">xavieralopez.com<\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "16551752784ed2bf01-0",
+        "16551752784ed2bf01-1"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/BIO_01.png",
+        "image_position": "right",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "1655177076276a5201": {
+      "type": "custom-html",
+      "settings": {
+        "custom_html": "<iframe src=\"https:\/\/therebis.substack.com\/embed\" width=\"\" height=\"320\" style=\" background:white; text-align: center;\" frameborder=\"0\" scrolling=\"no\"><\/iframe>"
+      }
+    }
+  },
+  "order": [
+    "1655153739a30cddf4",
+    "16551539499a5f2bf5",
+    "main",
+    "16551543079f71b3fc",
+    "165517538274b9a77d",
+    "16551535679f8d6ca2",
+    "1655175278b1f7084f",
+    "1655177076276a5201"
+  ]
+}

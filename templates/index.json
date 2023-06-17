@@ -1,0 +1,251 @@
+{
+  "sections": {
+    "16533460773822da77": {
+      "type": "video-hero",
+      "settings": {
+        "video_aspect": "custom",
+        "desktop_height": 90,
+        "mobile_height": 50,
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5b4faf5a110c444b92f1dc9bcf0b5c6f.mp4",
+        "alignment": "left_center",
+        "overlay_shadow": 0,
+        "color_text": "#ffffff",
+        "color_background_button": "#ffffff",
+        "color_text_button": "#181818",
+        "color_overlay": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image-with-text-1": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "text_max_width": 24
+          }
+        }
+      },
+      "block_order": [
+        "heading"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/TAROT_28904fda-3d71-4562-8f12-21ac9503067d.png",
+        "image_position": "right",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "Paramount Studios. Chicago Manual of Style. 2019. The University of Chicago Press.",
+        "section_contrast": false
+      }
+    },
+    "1654262093c69bb083": {
+      "type": "rich-text",
+      "blocks": {
+        "16542620937d4be68c-0": {
+          "type": "heading",
+          "settings": {
+            "title": "The Rebis is a print publication celebrating the connection between tarot and creativity.",
+            "text_max_width": 48
+          }
+        },
+        "31290a7e-fec6-4bce-a326-4e27d22a2620": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p>For our first anthology, we invited writers, artists, and tarotists to explore their relationship with The Wheel of Fortune. The result is 60 dazzling pages of original writing and evocative artwork.<\/p>",
+            "text_max_width": 42
+          }
+        },
+        "6c560e7f-0f61-4749-8e78-0a3e3b2b6381": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/products\/wheel-of-fortune",
+            "link_text": "ORDER \"THE WHEEL OF FORTUNE\" NOW"
+          }
+        }
+      },
+      "block_order": [
+        "16542620937d4be68c-0",
+        "31290a7e-fec6-4bce-a326-4e27d22a2620",
+        "6c560e7f-0f61-4749-8e78-0a3e3b2b6381"
+      ],
+      "custom_css": [],
+      "settings": {
+        "section_contrast": false
+      }
+    },
+    "3b07436b-713e-4b7b-bccb-3b709fdb52d8": {
+      "type": "rich-text",
+      "blocks": {
+        "4a830bfc-16f0-4617-96d1-947454b27399": {
+          "type": "heading",
+          "settings": {
+            "title": "The Rebis: Chariot coming Fall 2023",
+            "text_max_width": 48
+          }
+        },
+        "478b9c26-7202-4b8a-93fb-424722c5210a": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p>Our second anthology will focus on <strong>The Chariot<\/strong>. We will be featuring original writing, artwork, and other forms of creative expression inspired by the seventh card of the Major Arcana.  <\/p>",
+            "text_max_width": 42
+          }
+        },
+        "5ca3b60a-4cd9-4610-b90b-8c4e4e1116ff": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/submissions",
+            "link_text": "MORE INFO"
+          }
+        }
+      },
+      "block_order": [
+        "4a830bfc-16f0-4617-96d1-947454b27399",
+        "478b9c26-7202-4b8a-93fb-424722c5210a",
+        "5ca3b60a-4cd9-4610-b90b-8c4e4e1116ff"
+      ],
+      "settings": {
+        "section_contrast": false
+      }
+    },
+    "16533471187f2d66b6": {
+      "type": "slideshow",
+      "blocks": {
+        "1653347118692ad000-1": {
+          "type": "slide",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/banner_site-final.png",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "",
+            "subheading": "",
+            "heading_text_size": 64,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "",
+            "link": "",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "1653347118692ad000-1"
+      ],
+      "settings": {
+        "image_aspect": "original",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "duration_autoplay": 6,
+        "color_dot": "#ffffff"
+      }
+    },
+    "1654901479911bd131": {
+      "type": "custom-html",
+      "settings": {
+        "custom_html": "<iframe src=\"https:\/\/therebis.substack.com\/embed\" width=\"\" height=\"320\" style=\" background:white; text-align: center;\" frameborder=\"0\" scrolling=\"no\"><\/iframe>"
+      }
+    },
+    "1653346992e9c13e88": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "title": "Let's explore liminal spaces.",
+        "subheading": "<p>Subscribe to infrequent musings on tarot and creativity. <\/p>",
+        "section_contrast": false
+      }
+    },
+    "1654255762c8850f49": {
+      "type": "blog-posts",
+      "disabled": true,
+      "blocks": {
+        "165425576253cb7432-0": {
+          "type": "article",
+          "settings": {
+            "article": "the-rebis-journal\/test-blog-1"
+          }
+        },
+        "165425576253cb7432-1": {
+          "type": "article",
+          "settings": {
+            "article": "the-rebis-journal\/test-blog-2"
+          }
+        },
+        "165425576253cb7432-2": {
+          "type": "article",
+          "settings": {
+            "article": "the-rebis-journal\/test-blog-3"
+          }
+        }
+      },
+      "block_order": [
+        "165425576253cb7432-0",
+        "165425576253cb7432-1",
+        "165425576253cb7432-2"
+      ],
+      "settings": {
+        "show_date": true,
+        "columns": 3,
+        "title": "The Rebis Journal",
+        "subheading": "",
+        "text_max_width": 42,
+        "aspect_ratio": "natural",
+        "section_contrast": false
+      }
+    },
+    "slideshow-6": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "slide-1": {
+          "type": "slide",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/last_banner.png",
+            "focal_point": "center_top",
+            "mobile_focal_point": "center_center",
+            "title": "Call for Submissions",
+            "subheading": "<p>Submissions are open for our first edition! We’re looking for original writing and art that embodies the themes and archetypes found in the Wheel of Fortune, the tenth card of the Major Arcana. Submissions are open through June 15. Please read our <a href=\"https:\/\/therebis.myshopify.com\/pages\/contact\" title=\"Contact\"><span style=\"text-decoration:underline\">submission guidelines<\/span><\/a> for details.<\/p>",
+            "heading_text_size": 64,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "",
+            "link": "",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "duration_autoplay": 6,
+        "color_dot": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "16533460773822da77",
+    "image-with-text-1",
+    "1654262093c69bb083",
+    "3b07436b-713e-4b7b-bccb-3b709fdb52d8",
+    "16533471187f2d66b6",
+    "1654901479911bd131",
+    "1653346992e9c13e88",
+    "1654255762c8850f49",
+    "slideshow-6"
+  ]
+}
