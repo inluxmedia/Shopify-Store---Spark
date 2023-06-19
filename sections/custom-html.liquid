@@ -1,27 +1,26 @@
 {{ section.settings.custom_html }}
-
+{% style %}
+  #shopify-section-{{section.id}} {
+    background: #fff;
+    text-align: center;
+  }
+{% endstyle %}
 {% schema %}
 {
-  "name": "t:sections.custom_html.name",
+  "name": "Custom HTML",
   "tag": "section",
   "class": "spaced-section",
   "settings": [
     {
       "type": "html",
       "id": "custom_html",
-      "label": "t:sections.custom_liquid.settings.custom_html.label"
+      "label": "Code"
     }
   ],
   "presets": [
     {
-      "name": "t:sections.custom_html.presets.name"
+      "name": "Custom HTML"
     }
   ]
 }
 {% endschema %}
-<style>
-#shopify-section-template--14903830118537__1654901479911bd131 {
-  background-color: white;
-  text-align: center;
-}
-</style>
