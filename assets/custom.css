@@ -1,0 +1,8 @@
+@media (min-width: 60em){
+    .footer__groups {
+        grid-template-columns:repeat(3, 1fr);
+    }
+    .footer__group.footer__group--menu, .footer__group.footer__group--social_media_list, .footer__group.footer__group--text {
+        grid-column: auto;
+    }
+}
