@@ -2,7 +2,7 @@
   "current": {
     "color_background_body": "#000000",
     "color_border": "#d4d4d4",
-    "color_overlay": "#000000",
+    "color_overlay": "#003333",
     "color_text": "#cccccc",
     "color_text_link": "#cccccc",
     "color_header_bg": "#000000",
@@ -10,7 +10,7 @@
     "color_background_footer": "#000000",
     "color_text_footer": "#cccccc",
     "color_background_button": "#cccccc",
-    "color_text_button": "#000000",
+    "color_text_button": "#003333",
     "color_text_sale_badge": "#cccccc",
     "color_background_sold_badge": "#000000",
     "color_text_sold_badge": "#cccccc",

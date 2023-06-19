@@ -143,17 +143,6 @@
         }
       }
     },
-    "custom_html": {
-      "name": "Custom HTML",
-      "presets": {
-        "name": "Custom HTML"
-      },
-      "settings": {
-        "custom_html": {
-          "label": "Custom Liquid"
-        }
-      }
-    },
     "featured_collection": {
       "name": "Featured collection",
       "presets": {
