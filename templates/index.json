@@ -2,34 +2,70 @@
   "sections": {
     "16533460773822da77": {
       "type": "video-hero",
+      "blocks": {
+        "824687da-5e8c-4720-990a-64a633217016": {
+          "type": "heading",
+          "settings": {
+            "title": "Video Hero",
+            "heading_text_size": 64,
+            "text_max_width": 40
+          }
+        },
+        "be1d1cbb-dc7d-499c-b3c9-36f5aa76c04d": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Feature seamless auto-playing hero videos in this space.<\/p>",
+            "text_max_width": 40
+          }
+        },
+        "1838fcf9-b282-4753-9e40-5a2ab43c0201": {
+          "type": "button",
+          "settings": {
+            "link_text": "Shop now",
+            "link": "shopify:\/\/products\/wheel-of-fortune"
+          }
+        }
+      },
+      "block_order": [
+        "824687da-5e8c-4720-990a-64a633217016",
+        "be1d1cbb-dc7d-499c-b3c9-36f5aa76c04d",
+        "1838fcf9-b282-4753-9e40-5a2ab43c0201"
+      ],
       "settings": {
         "video_aspect": "custom",
         "desktop_height": 90,
         "mobile_height": 50,
         "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5b4faf5a110c444b92f1dc9bcf0b5c6f.mp4",
-        "alignment": "left_center",
-        "overlay_shadow": 0,
+        "alignment": "center_center",
+        "overlay_shadow": 10,
         "color_text": "#ffffff",
         "color_background_button": "#ffffff",
-        "color_text_button": "#181818",
-        "color_overlay": "#000000",
-        "overlay_opacity": 0
+        "color_text_button": "#003333",
+        "color_overlay": "#003333",
+        "overlay_opacity": 50
       }
     },
     "image-with-text-1": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "",
+            "title": "Our Mission",
             "text_max_width": 24
+          }
+        },
+        "7e151da6-0320-41dd-930d-a1e72fdbd645": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>The Rebis commits to amplifying and centering underrepresented voices, paying artists and writers fairly for their work, and redistributing profits to social justice causes. After accounting for operating costs, profits from The Rebis will go to organizations committed to reparations and reproductive justice: The Sogorea Te Land Trust, The National Network of Abortion Funds, and Liberated Capital. To date we have donated over $2300.<\/p>",
+            "text_max_width": 48
           }
         }
       },
       "block_order": [
-        "heading"
+        "heading",
+        "7e151da6-0320-41dd-930d-a1e72fdbd645"
       ],
       "settings": {
         "image_1": "shopify:\/\/shop_images\/TAROT_28904fda-3d71-4562-8f12-21ac9503067d.png",
@@ -76,40 +112,6 @@
         "section_contrast": false
       }
     },
-    "3b07436b-713e-4b7b-bccb-3b709fdb52d8": {
-      "type": "rich-text",
-      "blocks": {
-        "4a830bfc-16f0-4617-96d1-947454b27399": {
-          "type": "heading",
-          "settings": {
-            "title": "The Rebis: Chariot coming Fall 2023",
-            "text_max_width": 48
-          }
-        },
-        "478b9c26-7202-4b8a-93fb-424722c5210a": {
-          "type": "text",
-          "settings": {
-            "subheading": "<p>Our second anthology will focus on <strong>The Chariot<\/strong>. We will be featuring original writing, artwork, and other forms of creative expression inspired by the seventh card of the Major Arcana.  <\/p>",
-            "text_max_width": 42
-          }
-        },
-        "5ca3b60a-4cd9-4610-b90b-8c4e4e1116ff": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/pages\/submissions",
-            "link_text": "MORE INFO"
-          }
-        }
-      },
-      "block_order": [
-        "4a830bfc-16f0-4617-96d1-947454b27399",
-        "478b9c26-7202-4b8a-93fb-424722c5210a",
-        "5ca3b60a-4cd9-4610-b90b-8c4e4e1116ff"
-      ],
-      "settings": {
-        "section_contrast": false
-      }
-    },
     "16533471187f2d66b6": {
       "type": "slideshow",
       "blocks": {
@@ -144,6 +146,40 @@
         "mobile_height": 100,
         "duration_autoplay": 6,
         "color_dot": "#ffffff"
+      }
+    },
+    "3b07436b-713e-4b7b-bccb-3b709fdb52d8": {
+      "type": "rich-text",
+      "blocks": {
+        "4a830bfc-16f0-4617-96d1-947454b27399": {
+          "type": "heading",
+          "settings": {
+            "title": "The Rebis: Chariot coming Fall 2023",
+            "text_max_width": 48
+          }
+        },
+        "478b9c26-7202-4b8a-93fb-424722c5210a": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p>Our second anthology will focus on <strong>The Chariot<\/strong>. We will be featuring original writing, artwork, and other forms of creative expression inspired by the seventh card of the Major Arcana.  <\/p>",
+            "text_max_width": 42
+          }
+        },
+        "5ca3b60a-4cd9-4610-b90b-8c4e4e1116ff": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/submissions",
+            "link_text": "MORE INFO"
+          }
+        }
+      },
+      "block_order": [
+        "4a830bfc-16f0-4617-96d1-947454b27399",
+        "478b9c26-7202-4b8a-93fb-424722c5210a",
+        "5ca3b60a-4cd9-4610-b90b-8c4e4e1116ff"
+      ],
+      "settings": {
+        "section_contrast": false
       }
     },
     "1654901479911bd131": {
@@ -241,8 +277,8 @@
     "16533460773822da77",
     "image-with-text-1",
     "1654262093c69bb083",
-    "3b07436b-713e-4b7b-bccb-3b709fdb52d8",
     "16533471187f2d66b6",
+    "3b07436b-713e-4b7b-bccb-3b709fdb52d8",
     "1654901479911bd131",
     "1653346992e9c13e88",
     "1654255762c8850f49",
