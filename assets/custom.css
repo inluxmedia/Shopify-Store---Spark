@@ -1,3 +1,7 @@
+.btn.btn--primary {
+  background-color: #3333cc;
+  color: #fff;
+}
 @media (min-width: 60em){
     .footer__groups {
         grid-template-columns:repeat(3, 1fr);

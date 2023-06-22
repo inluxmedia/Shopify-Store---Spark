@@ -41,6 +41,33 @@
           "settings": {
             "style": "paragraph"
           }
+        },
+        "3f9708eb-d1af-4a83-84cd-3370ea652b1e": {
+          "type": "accordion",
+          "settings": {
+            "column": "right",
+            "style": "closed",
+            "heading": "Features",
+            "content": "<p>8x10 full-color print publication. 60 pages of essays and poetry, a tarot spread, and artwork— including original watercolor paintings, illustrations, collage art, and a \"phygital\" two-page spread with a QR code you'll be able to scan for an immersive experience.<\/p>"
+          }
+        },
+        "9c01cb9e-4354-489c-b22a-349d85966b94": {
+          "type": "accordion",
+          "settings": {
+            "column": "right",
+            "style": "closed",
+            "heading": "Contributors",
+            "content": "<p>• <strong>Alyssa Polizzi<\/strong> unpacks alchemical processes and the archetypal patterns found within the Wheel of Fortune <br\/>• <strong>Maria Minnis<\/strong> talks about unlocking a more equitable future with imagination<br\/>• <strong>Sarah Ann Winn<\/strong> explains how she learned to embrace synchronicity and how it impacted her writing practice<br\/>• <strong>Helen Shewolfe Tseng<\/strong> reflects on coyotes as a metaphor and mythic symbol for change, adaptation, and resilience<br\/>• <strong>Sanyu Estelle<\/strong> examines how we're socially conditioned to be averse to change and invites us to look at the Wheel as a card of spatial significance<br\/>• <strong>Kim Rashidi<\/strong> writes about her creative process, describing creativity as \"an energy that exists outside of us and binds us together\"<br\/>• <strong>Anthony Perrotta<\/strong> draws on astrological associations with the Wheel to ground us in the present and shares a four-card Wheel of Fortune spread <br\/>• <strong>Nicolas Bruno<\/strong> gives a behind-the-scenes look at the creation of his Somnia Tarot deck<br\/>• <strong>Lorraine Schein<\/strong>, Eryn Johnson, and Joe Chaplain share original poetry inspired by the Wheel<br\/>• <strong>Xaviera Lopez, Valentina Alvarez, and Anne Horel <\/strong>contributed original artwork<\/p>"
+          }
+        },
+        "1359599c-8f59-4733-963f-7a35e9b0d05e": {
+          "type": "accordion",
+          "settings": {
+            "column": "right",
+            "style": "closed",
+            "heading": "We're a not-for-profit publication.",
+            "content": "<p>All profits from the sale of the publication will be distributed equally between three nonprofits committed to reproductive justice and reparations: The Sogorea Te Land Trust; The National Network of Abortion Funds; and Liberated Capital. <a href=\"https:\/\/therebis.substack.com\/p\/the-rebis-reciprocity-and-social\" title=\"The Rebis is not-for-profit\">Learn more here<\/a>.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -50,7 +77,10 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description"
+        "description",
+        "3f9708eb-d1af-4a83-84cd-3370ea652b1e",
+        "9c01cb9e-4354-489c-b22a-349d85966b94",
+        "1359599c-8f59-4733-963f-7a35e9b0d05e"
       ],
       "settings": {
         "enable_quick_purchase_bar": true,

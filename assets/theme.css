@@ -9842,7 +9842,7 @@ button{
   }
 @media (min-width: 45em){
 .btn.btn--large, .spr-summary-actions-newreview.btn--large{
-      padding:22px 40px
+      padding:12px 30px
   }
     }
 .btn.btn--medium, .spr-summary-actions-newreview.btn--medium{
@@ -9852,7 +9852,7 @@ button{
   }
 @media (min-width: 45em){
 .btn.btn--medium, .spr-summary-actions-newreview.btn--medium{
-      padding:18px 34px
+      padding:12px 30px
   }
     }
 .btn.btn--form, .spr-summary-actions-newreview.btn--form{

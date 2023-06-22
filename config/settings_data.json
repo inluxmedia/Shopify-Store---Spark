@@ -9,8 +9,8 @@
     "color_header_text": "#cccccc",
     "color_background_footer": "#000000",
     "color_text_footer": "#cccccc",
-    "color_background_button": "#cccccc",
-    "color_text_button": "#003333",
+    "color_background_button": "#3333cc",
+    "color_text_button": "#fff",
     "color_text_sale_badge": "#cccccc",
     "color_background_sold_badge": "#000000",
     "color_text_sold_badge": "#cccccc",
@@ -23,7 +23,7 @@
     "color_background_popover": "#000000",
     "color_text_popover": "#cccccc",
     "color_border_popover": "#3D3D3D",
-    "color_background_button_popover": "#cccccc",
+    "color_background_button_popover": "#d4d4d4",
     "color_text_button_popover": "#000000",
     "font_logo": "frutiger_serif_n7",
     "capitalize_logo": false,
@@ -145,7 +145,6 @@
         "blocks": {
           "popup-0": {
             "type": "heading",
-            "disabled": true,
             "settings": {
               "title": "Transmute with us",
               "subheading": "<p>Subscribe to musings on tarot and creativity. <\/p>"
@@ -153,7 +152,6 @@
           },
           "popup-1": {
             "type": "newsletter_signup",
-            "disabled": true,
             "settings": {}
           }
         },
