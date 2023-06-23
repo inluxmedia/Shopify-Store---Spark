@@ -5,6 +5,7 @@
       "blocks": {
         "824687da-5e8c-4720-990a-64a633217016": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "The Rebis",
             "heading_text_size": 64,
@@ -13,6 +14,7 @@
         },
         "be1d1cbb-dc7d-499c-b3c9-36f5aa76c04d": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "subheading": "<p>A print publication celebrating the connection between tarot and creativity.<\/p>",
             "text_max_width": 40
@@ -20,6 +22,7 @@
         },
         "1838fcf9-b282-4753-9e40-5a2ab43c0201": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "link_text": "Get a Book",
             "link": "shopify:\/\/products\/wheel-of-fortune"
@@ -51,21 +54,21 @@
         "c0c1ded9-177f-4043-bdaa-ebdb3e2a8855": {
           "type": "heading",
           "settings": {
-            "title": "Our Mission",
+            "title": "Mission Statement",
             "text_max_width": 48
           }
         },
         "cd876070-7bc8-4a5b-bfb4-cf0fc3d4ec70": {
           "type": "text",
           "settings": {
-            "subheading": "<p>The Rebis commits to amplifying and centering underrepresented voices, paying artists and writers fairly for their work, and redistributing profits to social justice causes. After accounting for operating costs, profits from The Rebis will go to organizations committed to reparations and reproductive justice: The Sogorea Te Land Trust, The National Network of Abortion Funds, and Liberated Capital. To date we have donated over $2300.<\/p>",
+            "subheading": "<p>Our mission is to build community around tarot & creativity, while amplifying and centering underrepresented voices, paying artists and writers for their work, and redistributing profits to social justice causes.<\/p>",
             "text_max_width": 48
           }
         },
         "c945e4cd-e7fa-427a-bf7c-13dec4d94467": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/products\/wheel-of-fortune",
+            "link": "shopify:\/\/pages\/mission-statement",
             "link_text": "Learn More"
           }
         }
@@ -134,16 +137,16 @@
             "title": "Upcoming Anthology",
             "subheading": "<p>Use this section to make a bold statement. Use this section to make a bold statement. Use this section to make a bold statement. <\/p>",
             "heading_text_size": 64,
-            "overlay_shadow": 20,
+            "overlay_shadow": 0,
             "max_width_subheading": 50,
             "link_text": "Pre Order the upcoming anthology",
-            "link": "shopify:\/\/products\/wheel-of-fortune",
+            "link": "shopify:\/\/products\/upcoming-anthology",
             "alignment": "center_center",
             "color_text": "#ffffff",
             "color_text_button": "#181818",
             "color_background_button": "#ffffff",
             "color_overlay": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 31
           }
         }
       },
@@ -234,35 +237,6 @@
         "color_dot": "#ffffff"
       }
     },
-    "01e97b2f-71d9-4586-80ca-f02b4ebe9ccd": {
-      "type": "map",
-      "blocks": {
-        "template--15531879366793__01e97b2f-71d9-4586-80ca-f02b4ebe9ccd-16874106591eedbd00-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Our store",
-            "text_max_width": 48
-          }
-        },
-        "template--15531879366793__01e97b2f-71d9-4586-80ca-f02b4ebe9ccd-16874106591eedbd00-1": {
-          "type": "store_information",
-          "settings": {
-            "store_information": "<p>1021 Ramona Avenue, <\/p><p>Albany California 94706, United States<\/p>",
-            "text_max_width": 42
-          }
-        }
-      },
-      "block_order": [
-        "template--15531879366793__01e97b2f-71d9-4586-80ca-f02b4ebe9ccd-16874106591eedbd00-0",
-        "template--15531879366793__01e97b2f-71d9-4586-80ca-f02b4ebe9ccd-16874106591eedbd00-1"
-      ],
-      "settings": {
-        "map_address": "1021 Ramona Avenue, Albany California 94706, United States",
-        "api_key": "AIzaSyDlrcQS4-85JSq7PKUIj4naArhdC6ff5uY",
-        "map_json": "",
-        "section_contrast": false
-      }
-    },
     "1654901479911bd131": {
       "type": "custom-html",
       "settings": {
@@ -277,7 +251,6 @@
     "3f5861d0-2f6c-4117-a5dc-e768e465fde2",
     "7eadee1e-f611-47dd-ba33-ee817946ae43",
     "16533471187f2d66b6",
-    "01e97b2f-71d9-4586-80ca-f02b4ebe9ccd",
     "1654901479911bd131"
   ]
 }

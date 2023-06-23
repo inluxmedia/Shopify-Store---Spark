@@ -170,7 +170,14 @@
         }
       }
     },
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "18210776219447627633": {
+        "type": "shopify:\/\/apps\/vertex-preorder-wishlist\/blocks\/Vertex\/a02017da-de13-446d-b6fa-d86bfd0cd5a7",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Chic": {
