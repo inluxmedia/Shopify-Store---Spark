@@ -5,7 +5,6 @@
       "blocks": {
         "824687da-5e8c-4720-990a-64a633217016": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "title": "The Rebis",
             "heading_text_size": 64,
@@ -14,7 +13,6 @@
         },
         "be1d1cbb-dc7d-499c-b3c9-36f5aa76c04d": {
           "type": "subheading",
-          "disabled": true,
           "settings": {
             "subheading": "<p>A print publication celebrating the connection between tarot and creativity.<\/p>",
             "text_max_width": 40
@@ -22,7 +20,6 @@
         },
         "1838fcf9-b282-4753-9e40-5a2ab43c0201": {
           "type": "button",
-          "disabled": true,
           "settings": {
             "link_text": "Get a Book",
             "link": "shopify:\/\/products\/wheel-of-fortune"
@@ -45,7 +42,7 @@
         "color_background_button": "#ffffff",
         "color_text_button": "#003333",
         "color_overlay": "#003333",
-        "overlay_opacity": 0
+        "overlay_opacity": 40
       }
     },
     "93aa65ef-1ba2-4f4c-8b5e-6e9410ba4c34": {

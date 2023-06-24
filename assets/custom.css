@@ -2,6 +2,12 @@
   background-color: #3333cc;
   color: #fff;
 }
+.rte--product.accordion .accordion__label:hover {
+    background-color: #3333cc;
+}
+.rte--product.accordion .accordion__group[data-open='true'] a.accordion__label {
+    background: #3333cc;
+}
 @media (min-width: 60em){
     .footer__groups {
         grid-template-columns:repeat(3, 1fr);

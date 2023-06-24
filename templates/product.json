@@ -46,7 +46,7 @@
           "type": "accordion",
           "settings": {
             "column": "right",
-            "style": "closed",
+            "style": "open",
             "heading": "Features",
             "content": "<p>8x10 full-color print publication. 60 pages of essays and poetry, a tarot spread, and artwork— including original watercolor paintings, illustrations, collage art, and a \"phygital\" two-page spread with a QR code you'll be able to scan for an immersive experience.<\/p>"
           }

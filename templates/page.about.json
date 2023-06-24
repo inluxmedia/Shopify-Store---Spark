@@ -52,11 +52,19 @@
             "subheading": "<p><strong>About the magazine<br\/><br\/><\/strong>Creative writing and art inspired by tarot. Stories that weave together psychology, mythology, and spirituality. A community of multidimensional thinkers, writers, and artists.<\/p><p>The Rebis is a physical magazine and a <a href=\"https:\/\/therebis.substack.com\/\" target=\"_blank\" title=\"https:\/\/therebis.substack.com\/\">digital newsletter<\/a>. Each print issue will focus on one card, where every contributor's interpretation adds layers of richness and depth. The <a href=\"https:\/\/therebis.substack.com\/\" target=\"_blank\" title=\"https:\/\/therebis.substack.com\/\">newsletter<\/a> unpacks broader themes of tarot and the creative process.<\/p><p>~<\/p><p><strong>About the name<br\/><br\/><\/strong>We take our name, The Rebis, from medieval alchemy and the pursuit of the philosopher’s stone. In many ways, alchemists were looking for the spiritual in the material — they hoped to transmute base metals into gold and find a universal elixir for immortality. <\/p><p>The Rebis references the final stage of the process, where substances with opposing qualities are brought together and transformed into something new — an alchemical magnum opus. The name comes from the Latin <em>res bina<\/em>, meaning <em>double matter<\/em>.<\/p><p>In 1968, Carl Jung published \"<a href=\"https:\/\/iaap.org\/resources\/academic-resources\/collected-works-abstracts\/volume-12-psychology-alchemy\/\" title=\"https:\/\/iaap.org\/resources\/academic-resources\/collected-works-abstracts\/volume-12-psychology-alchemy\/\">Psychology and Alchemy<\/a>,\" drawing parallels between the process of alchemical transformation and psychological development. <\/p><p>In this context, The Rebis becomes a metaphor for the harmonious union of opposites: spirit and matter, soul and body, light and shadow. <\/p><p>This concept instinctively felt like a fitting name for a publication devoted to tarot and creativity, to the pursuit of integrating the conscious with the unconscious and finding wholeness within.<\/p><p>~<\/p><p><strong>A not-for-profit magazine<\/strong><\/p><p>The Rebis commits to amplifying and centering underrepresented voices, paying artists and writers fairly for their work, and redistributing profits to social justice causes. <\/p><p>After accounting for operating costs, profits from The Rebis will go to organizations committed to reparations and reproductive justice: <a href=\"https:\/\/sogoreate-landtrust.org\/\" title=\"https:\/\/sogoreate-landtrust.org\/\">The Sogorea Te Land Trust<\/a>, <a href=\"https:\/\/abortionfunds.org\/\" title=\"https:\/\/abortionfunds.org\/\">The National Network of Abortion Funds<\/a>, and <a href=\"https:\/\/decolonizingwealth.com\/liberated-capital\/\" title=\"https:\/\/decolonizingwealth.com\/liberated-capital\/\">Liberated Capital<\/a>.<\/p>",
             "text_max_width": 42
           }
+        },
+        "2026ff14-abdb-4337-b73b-f753883e21fb": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/mission-statement",
+            "link_text": "Learn More"
+          }
         }
       },
       "block_order": [
         "1655153949f8e4711d-0",
-        "1655153949f8e4711d-1"
+        "1655153949f8e4711d-1",
+        "2026ff14-abdb-4337-b73b-f753883e21fb"
       ],
       "settings": {
         "section_contrast": false
