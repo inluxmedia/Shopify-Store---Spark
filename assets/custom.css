@@ -11,11 +11,20 @@
 html:not(.no-js) .navigation__submenu.active {
     width: inherit;
 }
+.ff-body ul {
+    font-family: 'MyriadPro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', sans-serif !important;
+}
 @media (min-width: 60em){
     .footer__groups {
         grid-template-columns:repeat(3, 1fr);
     }
     .footer__group.footer__group--menu, .footer__group.footer__group--social_media_list, .footer__group.footer__group--text {
         grid-column: auto;
+    }
+}
+@media screen and (max-width: 500px) {
+    .image-with-text--align-left .image-with-text__text-container .image-with-text__button {
+        margin-right: auto;
+        margin-left: auto;
     }
 }

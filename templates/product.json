@@ -91,6 +91,7 @@
     },
     "recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "columns": 3,
         "title": "Recommended",
