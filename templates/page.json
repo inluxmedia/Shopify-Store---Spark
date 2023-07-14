@@ -10,7 +10,8 @@
     "c768a08a-a485-4916-86fb-0d5c43344efa": {
       "type": "custom-html",
       "settings": {
-        "custom_html": ""
+        "custom_html": "",
+        "bg_color": "#000000"
       }
     },
     "7cb1df58-9254-43f8-83fa-6bebc5c8fc00": {
@@ -42,7 +43,8 @@
     "60b65b7e-c69e-4a53-a710-8331afcacf0c": {
       "type": "custom-html",
       "settings": {
-        "custom_html": "<iframe style=\"border-radius:12px\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/7792P4gajPyO7O6CKn7Nuv?utm_source=generator&amp;theme=0\" width=\"75%\" height=\"352\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"><\/iframe>"
+        "custom_html": "<iframe style=\"border-radius:12px\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/7792P4gajPyO7O6CKn7Nuv?utm_source=generator&amp;theme=0\" width=\"75%\" height=\"352\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"><\/iframe>",
+        "bg_color": "#000000"
       }
     },
     "323ece36-28bd-4737-b1cb-cbfcfd427994": {
@@ -74,7 +76,8 @@
     "f470ba01-ad8e-4dfa-91fd-db187551fed1": {
       "type": "custom-html",
       "settings": {
-        "custom_html": "<iframe src=\"https:\/\/therebis.substack.com\/embed\" width=\"\" height=\"320\" style=\" background:white; text-align: center;\" frameborder=\"0\" scrolling=\"no\"><\/iframe>"
+        "custom_html": "<iframe src=\"https:\/\/therebis.substack.com\/embed\" width=\"\" height=\"320\" style=\" background:white; text-align: center;\" frameborder=\"0\" scrolling=\"no\"><\/iframe>",
+        "bg_color": "#ffffff"
       }
     }
   },
