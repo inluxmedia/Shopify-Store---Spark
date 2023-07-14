@@ -12,14 +12,14 @@
         "template--15534021574793__4e8b7918-21ac-4935-8e8b-42684b4065f7-1687415588216af4cf-0": {
           "type": "heading",
           "settings": {
-            "title": "Image with text",
+            "title": "Xaviera López",
             "text_max_width": 32
           }
         },
         "template--15534021574793__4e8b7918-21ac-4935-8e8b-42684b4065f7-1687415588216af4cf-1": {
           "type": "subheading",
           "settings": {
-            "subheading": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "subheading": "<p>Xaviera López (she\/her) is a Chilean artist and animator, and the creative director of The Rebis. Her linear drawings, animations, and short format looping videos incorporate simplified yet highly contextual self-portraits and images that display the meeting place of the material and the ethereal, and challenge perceived delineations between the felt and seen. <\/p><p>Follow Xaviera: <a href=\"https:\/\/xavieralopez.com\/\" target=\"_blank\" title=\"https:\/\/xavieralopez.com\/\"><span style=\"text-decoration:underline\">@xavieralopez<\/span><\/a><\/p>",
             "text_max_width": 32
           }
         }
@@ -29,11 +29,43 @@
         "template--15534021574793__4e8b7918-21ac-4935-8e8b-42684b4065f7-1687415588216af4cf-1"
       ],
       "settings": {
+        "image_1": "shopify:\/\/shop_images\/Xaviera.png",
         "image_position": "right",
         "image_width": "half",
         "aspect_ratio": "natural",
         "text_alignment": "left",
-        "caption": "Paramount Studios. Chicago Manual of Style. 2019. The University of Chicago Press.",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "d930a30b-31a3-4387-8152-bfd25f63e44e": {
+      "type": "image-with-text",
+      "blocks": {
+        "f20aa441-4d92-4e38-a7b3-557798561886": {
+          "type": "heading",
+          "settings": {
+            "title": "Maria Minnis",
+            "text_max_width": 32
+          }
+        },
+        "f2933e75-55ff-438b-961c-6186dd778489": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Maria Minnis (she\/her) is a Los Angeles-based writer, artist, ritual facilitator, and teacher with Southern roots who writes and teaches about everyday magic and holographic thinking in the context of social justice and liberation. Sparked by a Kundalini awakening after a near-death experience, her work is inspired by voids, whale songs, Southern ritual, the moon, movement, experience, plant wisdom, and infinite interconnectedness. She is unapologetically Black and wildly intent on living on purpose. <\/p><p>Follow Maria: <a href=\"https:\/\/www.instagram.com\/feminnis\/\" target=\"_blank\"><span style=\"text-decoration:underline\">@feminnis<\/span><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "f20aa441-4d92-4e38-a7b3-557798561886",
+        "f2933e75-55ff-438b-961c-6186dd778489"
+      ],
+      "settings": {
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
         "section_contrast": false
       }
     },
@@ -43,14 +75,14 @@
         "82906344-16b3-48dc-8479-64168b201bab": {
           "type": "heading",
           "settings": {
-            "title": "Image with text",
+            "title": "Stephanie Adams-Santos",
             "text_max_width": 32
           }
         },
         "86ace877-e680-486c-a761-d99d82427b3a": {
           "type": "subheading",
           "settings": {
-            "subheading": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "subheading": "<p>The work of Stephanie Adams-Santos (she\/they) spans poetry, prose, and screenwriting. Often grappling with themes of strangeness and belonging, their work reflects a fascination with the weird, numinous and primal forces that shape inner life. They are the author of several full length poetry collections and chapbooks, including DREAM OF XIBALBA and SWARM QUEEN'S CROWN. Most recently, Stephanie staffed on a live action fantasy series in development at Disney+. As an inaugural fellow of the 2022 Ojalá Ignition Fellowship, they developed an original fantasy pilot based on the world and characters of the tarot. In addition to her literary work, Stephanie is illustrating an original Major Arcana tarot deck called Tarot de La Selva. She lives in Oregon. <\/p><p>Follow Stephanie: <a href=\"https:\/\/www.instagram.com\/tarot_obscuro\/\" target=\"_blank\"><span style=\"text-decoration:underline\">@tarot_obscuro<\/span><\/a><\/p>",
             "text_max_width": 32
           }
         }
@@ -60,11 +92,679 @@
         "86ace877-e680-486c-a761-d99d82427b3a"
       ],
       "settings": {
+        "image_1": "shopify:\/\/shop_images\/Stephanie-Adams-Santos.png",
         "image_position": "left",
         "image_width": "half",
         "aspect_ratio": "natural",
         "text_alignment": "left",
-        "caption": "Paramount Studios. Chicago Manual of Style. 2019. The University of Chicago Press.",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "e74e0d95-74e2-4dc3-9a8d-121e3a2a6e62": {
+      "type": "image-with-text",
+      "blocks": {
+        "fed3ff40-b734-4b38-9328-51c168db90f9": {
+          "type": "heading",
+          "settings": {
+            "title": "Patricio Antonio",
+            "text_max_width": 32
+          }
+        },
+        "a59c5f0f-26b9-4c6c-829e-f7dd4485d357": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Patricio Antonio bio<\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "fed3ff40-b734-4b38-9328-51c168db90f9",
+        "a59c5f0f-26b9-4c6c-829e-f7dd4485d357"
+      ],
+      "settings": {
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "a640db0d-2f0a-47db-836c-dc6a92f38218": {
+      "type": "image-with-text",
+      "blocks": {
+        "6c612e03-63dd-46aa-9f73-e75f7715902e": {
+          "type": "heading",
+          "settings": {
+            "title": "Sarah Arantza Amador",
+            "text_max_width": 32
+          }
+        },
+        "789bb75f-9eb6-40f6-9c6d-0f1903c65bc9": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Sarah Arantza Amador (she\/her; ella) of Hawthorn Mountain Tarot believes that the world is imperfect and beautiful; that humans are wired for curiosity, empathy, and change; and that you are magic! Sarah is a fiction author and tarot reader living on the Monterey Bay of Northern California. A former university professor with a background in literary analysis, nonviolent communication, psychoanalysis, and critical theory and philosophy, Sarah works with the tarot to explore inter and intrapersonal connection and understanding. <\/p><p>Follow Sarah: <a href=\"https:\/\/linktr.ee\/hawthornmtntarot\" target=\"_blank\"><span style=\"text-decoration:underline\">@hawthornmtntarot<\/span><\/a> <\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "6c612e03-63dd-46aa-9f73-e75f7715902e",
+        "789bb75f-9eb6-40f6-9c6d-0f1903c65bc9"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Sarah_Arantza.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "156686a9-a1e7-4bd5-93fe-abbb77e24545": {
+      "type": "image-with-text",
+      "blocks": {
+        "f698141f-6659-44c1-9fa5-504e137b4afd": {
+          "type": "heading",
+          "settings": {
+            "title": "Caroline Cala Donofrio",
+            "text_max_width": 32
+          }
+        },
+        "e5edaf07-49b1-4490-822d-f111609c0e33": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Caroline Cala Donofrio (she\/her) is a Brooklyn-based writer. Her work has appeared in places like The Cut\/NYMag, Elle, The Washington Post, Refinery29 and others. She is the author of the middle grade series Best Babysitters Ever and the co-writer on a number of NYTimes bestselling books by notable people. Caroline writes the Substack newsletter Between a Rock and a Card Place, about tarot, creativity, and the many facets of being human. She strongly identifies with The Fool. <\/p><p>Follow Caroline: <a href=\"https:\/\/www.instagram.com\/carolinecala\/\" target=\"_blank\"><span style=\"text-decoration:underline\">@carolinecala<\/span><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "f698141f-6659-44c1-9fa5-504e137b4afd",
+        "e5edaf07-49b1-4490-822d-f111609c0e33"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Caroline_Donofrio.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "8e0ddfe6-2c85-47ec-b352-7123405e1a29": {
+      "type": "image-with-text",
+      "blocks": {
+        "afbce8a3-5076-4dd2-ae7d-6a5f1a3d416b": {
+          "type": "heading",
+          "settings": {
+            "title": "K. Leigh Clapp",
+            "text_max_width": 32
+          }
+        },
+        "3f1c3723-883d-4636-8a5c-e09a8d319a7e": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>K. Leigh Clapp (she\/her) is a Deaf tarot reader from Frederick, Maryland, working at the intersection of signs and symbols, of mythology and metaphysics, where she translates the invisible codes of existence. In her role as evolutionary oracle, Leigh draws upon her deep background in both intuitive and esoteric tarot to help creatives, mystics, and seekers witness and embody their own fullest becoming in this world. <\/p><p>Follow K. Leigh: <a href=\"https:\/\/www.instagram.com\/liminalsight\/\" target=\"_blank\"><span style=\"text-decoration:underline\">@liminalsight<\/span><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "afbce8a3-5076-4dd2-ae7d-6a5f1a3d416b",
+        "3f1c3723-883d-4636-8a5c-e09a8d319a7e"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/K._Leigh_Clapp_e33ccd0f-7693-4657-9af1-2645ab22ba07.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "bb5f1f68-1987-4f17-bed1-509167a8b8fc": {
+      "type": "image-with-text",
+      "blocks": {
+        "025b9426-8f4a-41b7-ab83-29711fda19d9": {
+          "type": "heading",
+          "settings": {
+            "title": "Caren Gussoff Sumption",
+            "text_max_width": 32
+          }
+        },
+        "01ca20ae-1f63-458d-9f78-fc53e3bc0bbd": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Caren Gussoff Sumption<\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "025b9426-8f4a-41b7-ab83-29711fda19d9",
+        "01ca20ae-1f63-458d-9f78-fc53e3bc0bbd"
+      ],
+      "settings": {
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "c7aea9f3-f464-4b31-9f94-5eaf1ed2815c": {
+      "type": "image-with-text",
+      "blocks": {
+        "146baa85-11f4-447d-9d09-ac0d31a529c4": {
+          "type": "heading",
+          "settings": {
+            "title": "Gabby Holden",
+            "text_max_width": 32
+          }
+        },
+        "b127c3e3-2935-4735-bebb-511c2cd6e622": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Gabby Holden (she\/her) is a disabled comics artist from the Pacific Northwest. She focuses on mostly auto-biographical comics, and is currently working on a graphic novel about how her spirituality has helped her move through trauma, illnesses, and loss. <\/p><p>Follow Gabby: <a href=\"https:\/\/www.instagram.com\/gabby.lea.holden\/\" target=\"_blank\"><span style=\"text-decoration:underline\">@gabby.lea.holden<\/span><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "146baa85-11f4-447d-9d09-ac0d31a529c4",
+        "b127c3e3-2935-4735-bebb-511c2cd6e622"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Gabby_Holden.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "6e485da3-6b04-42fa-b460-312e84321744": {
+      "type": "image-with-text",
+      "blocks": {
+        "3e57d0ad-ed84-4b9e-9ce8-67582a2ed0da": {
+          "type": "heading",
+          "settings": {
+            "title": "Nick Jacobs",
+            "text_max_width": 32
+          }
+        },
+        "181e4b75-6d2f-444a-8d14-fbe1213df679": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Nick Jacobs (he\/him) is a tarot reader, mentor, writer, and designer with over 20 years of experience handling and studying the cards. With a background in design and art history, he has found that the tarot is one of the best representations of the human experience. It is his belief that the cards also create space for individuals to reflect on their lives in a meaningful, actionable, and helpful way. <\/p><p>Follow Nick: <a href=\"https:\/\/www.instagram.com\/pageofcupstarot\/\" target=\"_blank\"><span style=\"text-decoration:underline\">@pageocupstarot<\/span><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "3e57d0ad-ed84-4b9e-9ce8-67582a2ed0da",
+        "181e4b75-6d2f-444a-8d14-fbe1213df679"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Nick_jacobs.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "61f5ebf4-6495-4d92-b7bc-ba6ad2a3ab8f": {
+      "type": "image-with-text",
+      "blocks": {
+        "57d08d2d-de0c-4efc-8154-047076716933": {
+          "type": "heading",
+          "settings": {
+            "title": "Madison Jamar",
+            "text_max_width": 32
+          }
+        },
+        "f1ea7136-f519-42f8-818d-dacc4aaf187b": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Madison Jamar (she\/her) is NYC-based writer from Columbus, Ohio. Her essays have appeared in Catapult, The Common, 68to05, Black Lipstick and more. <\/p><p>Follow Madison: <a href=\"https:\/\/linktr.ee\/madisonjamar\" target=\"_blank\" title=\"https:\/\/linktr.ee\/madisonjamar\"><strong>@madisonjamar<\/strong><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "57d08d2d-de0c-4efc-8154-047076716933",
+        "f1ea7136-f519-42f8-818d-dacc4aaf187b"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Madison_Jamar_Photo_1.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "38af7238-a040-4c78-97c7-43b9fc60bd3e": {
+      "type": "image-with-text",
+      "blocks": {
+        "d652f8aa-0ac3-4578-96ff-a382d5ec841e": {
+          "type": "heading",
+          "settings": {
+            "title": "Eryn Johnson",
+            "text_max_width": 32
+          }
+        },
+        "f7df2041-aabe-4481-a69b-8fe3cde6efcf": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Eryn Johnson (she\/they) is a queer writer and sometimes breathwork facilitator based in Philadelphia, PA. Their work focuses on aliveness, desire, belonging, and becoming. You can find their writing in Insider, Tilted House Magazine, Salty, and others. Follow along at <a href=\"https:\/\/joynotes.substack.com\" target=\"_blank\" title=\"https:\/\/joynotes.substack.com\">joynotes.substack.com<\/a> and <a href=\"https:\/\/erynjohnson.com\" target=\"_blank\" title=\"https:\/\/erynjohnson.com\">erynjohnson.com<\/a> <\/p><p>Follow Eryn: <a href=\"https:\/\/www.instagram.com\/erynj_\/\" target=\"_blank\"><span style=\"text-decoration:underline\">@erynj_<\/span><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "d652f8aa-0ac3-4578-96ff-a382d5ec841e",
+        "f7df2041-aabe-4481-a69b-8fe3cde6efcf"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Eryn_Johnson.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "5a7885f3-44b4-4fa2-bdd0-622a4aa6111d": {
+      "type": "image-with-text",
+      "blocks": {
+        "bb9f60ff-f115-48b4-89d1-f808fc8eb54d": {
+          "type": "heading",
+          "settings": {
+            "title": "Nick Kepley",
+            "text_max_width": 32
+          }
+        },
+        "e79bab8d-9396-4b5d-b966-5b69d9dd15dc": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Nick Kepley (they\/he) is a queer, non-binary tarot reader, writer, teacher, and anarchist who believes in the power of words and their complete inability to describe reality. They are the co-creator of the In Search of Tarot guided journal collection, and the creator and co-host of the In Search of Tarot podcast. In addition to offering readings, Nick teaches tarot extensively throughout the year. You can learn more about all of Nick's offerings by visiting <a href=\"http:\/\/manofthecards.com\" target=\"_blank\"><span style=\"text-decoration:underline\">manofthecards.com<\/span><\/a>. <\/p><p>Follow Nick: <strong>@<\/strong><a href=\"https:\/\/www.instagram.com\/insearchoftarot\/\"><span style=\"text-decoration:underline\"><strong>insearchoftarot<\/strong><\/span><\/a><strong> <\/strong><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "bb9f60ff-f115-48b4-89d1-f808fc8eb54d",
+        "e79bab8d-9396-4b5d-b966-5b69d9dd15dc"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/IMG-5226_1_1.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "7c41f3a3-3091-479a-8f15-3745e2040b2c": {
+      "type": "image-with-text",
+      "blocks": {
+        "57bd776e-b2d9-4ab2-8d01-c11254e33b51": {
+          "type": "heading",
+          "settings": {
+            "title": "Emily Knapp",
+            "text_max_width": 32
+          }
+        },
+        "04dd2fb0-2b81-4637-9fc9-87401dea985d": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Emily Knapp (they\/them) is a writer and comedian based in Denver. They’re originally from Chicago, but fled west because they really like seeing the sun in February. Their writing has been featured in ARC Journal, Button Poetry, McSweeney’s, The Belladonna, Slackjaw, Points in Case, and other places on the internet. You can read their writing at <a href=\"https:\/\/www.emilyknappwriter.com\/\" target=\"_blank\"><span style=\"text-decoration:underline\">emilyknappwriter.com<\/span><\/a> <\/p><p>Follow Emily: <a href=\"https:\/\/www.instagram.com\/kuhnaptakesanap\" target=\"_blank\"><span style=\"text-decoration:underline\">@kuhnaptakesanap<\/span><\/a> <\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "57bd776e-b2d9-4ab2-8d01-c11254e33b51",
+        "04dd2fb0-2b81-4637-9fc9-87401dea985d"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Emily_Knapp.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "91c86cc3-b2c8-447a-bab9-f952b849b53f": {
+      "type": "image-with-text",
+      "blocks": {
+        "28f2a206-5283-4e40-ad85-c2631e8341a0": {
+          "type": "heading",
+          "settings": {
+            "title": "Katie Kraushaar",
+            "text_max_width": 32
+          }
+        },
+        "59462421-1e17-4300-a0ce-69bc55e9c279": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Katie Kraushaar is a writer, teacher, yogi, tarot reader and, above all, a human. She is deeply interested in exploring intersectionality, especially the places where humanity and spirituality meet. You can <a href=\"http:\/\/everydaywoo.substack.com\/\" target=\"_blank\">read her writing here.<\/a><\/p><p>Follow Katie: <a href=\"http:\/\/instagram.com\/quiettarot\" target=\"_blank\" title=\"http:\/\/instagram.com\/quiettarot\">@quiettarot<\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "28f2a206-5283-4e40-ad85-c2631e8341a0",
+        "59462421-1e17-4300-a0ce-69bc55e9c279"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/IMG_1107.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "96e661b9-736a-4dd7-9e54-9302a2758d33": {
+      "type": "image-with-text",
+      "blocks": {
+        "83653ad9-f911-41df-a051-d1a2e3519f1c": {
+          "type": "heading",
+          "settings": {
+            "title": "Anthony Perrotta",
+            "text_max_width": 32
+          }
+        },
+        "f7bf1f47-8eb5-40b9-8e7c-4df6f6407672": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Anthony Perrotta (he\/him) is an astrologer, artist, poet, designer, storyteller & curator. He spends his time running his astrological business where he specializes in making the abstract feel more tangible. He has been a practicing astrologer for over a decade and a student of the craft for over 16 years. He has a background in Fashion and Interior Design and has spent years bridging the gap between his passions. Because astrology is at the heart of everything he does, he has created intersections of art, design, fashion, dreamwork, and poetry with astrology. He currently runs and operates his own magazine called <a href=\"https:\/\/www.perrotta.co\/the-astro-edit\" target=\"_blank\"><span style=\"text-decoration:underline\">The AstroEdit<\/span><\/a>. He resides in Rhode Island with his husband, his cat, and his rabbit. <\/p><p>Follow Anthony: <a href=\"https:\/\/www.instagram.com\/ap_astrology\/\" target=\"_blank\"><span style=\"text-decoration:underline\">@ap_astrology<\/span><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "83653ad9-f911-41df-a051-d1a2e3519f1c",
+        "f7bf1f47-8eb5-40b9-8e7c-4df6f6407672"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Anthony_Perrotta.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "5e052d74-5c6a-40e3-8a7e-68d411a6f8ee": {
+      "type": "image-with-text",
+      "blocks": {
+        "2c739435-06b7-48f3-874c-cd41c4ac5ddf": {
+          "type": "heading",
+          "settings": {
+            "title": "Helen Shewolfe Tseng",
+            "text_max_width": 32
+          }
+        },
+        "f50ef473-7245-44bb-b4d4-9463313a9b03": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Helen Shewolfe Tseng (they\/she\/wolf) is an interdisciplinary artist, designer, witch, and naturalist born to Taiwanese immigrants in the Deep South. Their work is influenced by ancestral and diasporic cosmologies, interspecies collaborations, trickster archetypes, and neurodivergence. Helen was a 2018-2019 YBCA Fellow, 2019 Designer in Residence at Headlands Center for the Arts, illustrator and co-author of <a href=\"https:\/\/www.chroniclebooks.com\/products\/the-astrological-grimoire\" target=\"_blank\"><span style=\"text-decoration:underline\">The Astrological Grimoire<\/span><\/a>, former co-host of Astral Projection Radio Hour (2014-2020), and co-author of Virgie Tovar’s <a href=\"https:\/\/bodypositiveschool.teachable.com\/p\/tarot\" target=\"_blank\"><span style=\"text-decoration:underline\">Body Positive Tarot course<\/span><\/a>. <\/p><p>Follow Helen: <a href=\"https:\/\/www.instagram.com\/wolfchirp\/\" target=\"_blank\"><span style=\"text-decoration:underline\">@wolfchirp<\/span><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "2c739435-06b7-48f3-874c-cd41c4ac5ddf",
+        "f50ef473-7245-44bb-b4d4-9463313a9b03"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/helen_tseng.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "99bd74c9-221a-4e49-b2dd-0fcd5bda7703": {
+      "type": "image-with-text",
+      "blocks": {
+        "6fa3df18-22e2-4869-b082-eb6ff813313c": {
+          "type": "heading",
+          "settings": {
+            "title": "Kelly Tatham",
+            "text_max_width": 32
+          }
+        },
+        "f2f9f316-119a-41d8-a2cb-c7edcd211d33": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Kelly Tatham (she\/her) is a writer, researcher, and filmmaker on the search for love and the true nature of reality. Alongside her investigations of the mystical and the occult, where she uses the tarot as a tool to better understand herself and the spacetime matrix, her curiosity has taken her from climate activism to politics to documenting the frontlines of resource extraction. Kelly shares her adventures and insights through a weekly Substack newsletter called \"<a href=\"https:\/\/loveandthemultiverse.substack.com\/\" target=\"_blank\" title=\"https:\/\/loveandthemultiverse.substack.com\/\">Love and the Multiverse<\/a>\" and on <a href=\"https:\/\/www.instagram.com\/kellytatham\/?hl=en\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/kellytatham\/?hl=en\">Instagram<\/a> and <a href=\"https:\/\/www.tiktok.com\/@kellytatham?lang=en\" target=\"_blank\" title=\"https:\/\/www.tiktok.com\/@kellytatham?lang=en\">Tiktok<\/a> as a content creator. <\/p><p>Follow Kelly: <a href=\"https:\/\/kellytatham.com\/\" target=\"_blank\" title=\"https:\/\/kellytatham.com\/\"><strong>@kellytatham<\/strong><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "6fa3df18-22e2-4869-b082-eb6ff813313c",
+        "f2f9f316-119a-41d8-a2cb-c7edcd211d33"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Kelly_Tatham_headshot_1.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "a99b459b-7edd-4d95-8345-f5c2840c8fee": {
+      "type": "image-with-text",
+      "blocks": {
+        "dcc238af-c885-49d5-9c81-850b969578d2": {
+          "type": "heading",
+          "settings": {
+            "title": "Siri Vincent Plouff",
+            "text_max_width": 32
+          }
+        },
+        "b93de9e4-c493-42fc-ae1c-d0d7d1a33144": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Siri Vincent Plouff<\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "dcc238af-c885-49d5-9c81-850b969578d2",
+        "b93de9e4-c493-42fc-ae1c-d0d7d1a33144"
+      ],
+      "settings": {
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "fb190ab4-9ece-4d1a-ade6-27ef259ec65f": {
+      "type": "image-with-text",
+      "blocks": {
+        "d194cc08-b173-4297-b50c-750413d035b7": {
+          "type": "heading",
+          "settings": {
+            "title": "Cassandra Snow",
+            "text_max_width": 32
+          }
+        },
+        "90f32e84-5492-4706-ae82-d041a1eaf921": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Cassandra Snow<\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "d194cc08-b173-4297-b50c-750413d035b7",
+        "90f32e84-5492-4706-ae82-d041a1eaf921"
+      ],
+      "settings": {
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "329a5cd5-b442-40d6-aead-495069d99877": {
+      "type": "image-with-text",
+      "blocks": {
+        "b06194c3-4d65-44b5-b44e-a416a9472c60": {
+          "type": "heading",
+          "settings": {
+            "title": "Kim Rashidi",
+            "text_max_width": 32
+          }
+        },
+        "15e5c51c-672e-41e3-ac12-3260cf256a11": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Kim Rashidi (she\/her) is a Toronto-based writer exploring the cosmos through her words. She has a soft spot for capturing love and life in the mundane. Writing about the lives, cities, and timelines that mirror back the romantic, she weaves reality with imagined possibilities. Her works of fiction (Only Alive on Sundays, 2023) and poetry (Fortunate: Tarot Poetry, 2022) are both creatively inspired by tarot. <\/p><p>Follow Kim: <a href=\"https:\/\/www.instagram.com\/kimrashidi\/?hl=en\" target=\"_blank\"><span style=\"text-decoration:underline\">@kimrashidi<\/span><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "b06194c3-4d65-44b5-b44e-a416a9472c60",
+        "15e5c51c-672e-41e3-ac12-3260cf256a11"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Kim_Rashidi.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "0477bda9-f708-442f-8190-5be90ec84182": {
+      "type": "image-with-text",
+      "blocks": {
+        "734799d3-602c-4068-a32b-0406b9b98f7f": {
+          "type": "heading",
+          "settings": {
+            "title": "KJ Naum",
+            "text_max_width": 32
+          }
+        },
+        "7a4beef5-dd61-4cdc-bf01-12f303df1c30": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>KJ Naum (they\/them) is a writer and artist currently splitting their time between Illinois and New York. Their work has appeared in Electric Literature, the Huffington Post, and others, and has been translated into Portuguese and German. KJ has been reading tarot since they were in middle school, and later earned a B.A. in sustainable development from Columbia University. In their professional life, KJ helps scientists tell meaningful stories. KJ is currently writing HOW TO PREDICT THE FUTURE, a book that explores the climate crisis through tarot. <\/p><p>Follow KJ: <a href=\"https:\/\/www.instagram.com\/naumstrosity\/\" target=\"_blank\"><span style=\"text-decoration:underline\">@naumstrosity<\/span><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "734799d3-602c-4068-a32b-0406b9b98f7f",
+        "7a4beef5-dd61-4cdc-bf01-12f303df1c30"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/KJ_Naum.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "eb40bbd2-b2dc-4690-8280-1f4bed125f5b": {
+      "type": "image-with-text",
+      "blocks": {
+        "b6689971-350b-4cbd-8031-e9cb0c83db40": {
+          "type": "heading",
+          "settings": {
+            "title": "Sam Valentine",
+            "text_max_width": 32
+          }
+        },
+        "4d6dc3d6-9cfb-4408-86d1-45cfe5c11af8": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Sam Valentine doesn’t like to self-identify, but when she does, it’s as an aesthete, tarot reader, & curator of vibes. Reading tarot primarily for fun and enjoyment, their work leaves space for not-knowing, and they hold no set expectations about what the cards might “mean.” A tarot hobbyist, creative, and magical practitioner on the side, Sam spends most of her time on her work in her professional capacity as a community archivist. <\/p><p>Follow Sam: <a href=\"https:\/\/www.instagram.com\/valentine.tarot\/\" target=\"_blank\"><span style=\"text-decoration:underline\">@valentine.tarot<\/span><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "b6689971-350b-4cbd-8031-e9cb0c83db40",
+        "4d6dc3d6-9cfb-4408-86d1-45cfe5c11af8"
+      ],
+      "settings": {
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
+        "section_contrast": false
+      }
+    },
+    "efca844e-9340-4568-940f-da02d6724ea5": {
+      "type": "image-with-text",
+      "blocks": {
+        "df15bf66-0f24-475f-8dce-097f6b4092ac": {
+          "type": "heading",
+          "settings": {
+            "title": "Meg Jones Wall",
+            "text_max_width": 32
+          }
+        },
+        "42ec6677-4fb1-4bfb-8384-57adf0057a1a": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Meg Jones Wall (she\/they) is a queer, chronically-ill tarot reader, writer, photographer, and the creator of 3am.tarot. Meg's work has appeared in Autostraddle, Astrology Answers, WIRED, Catapult Magazine, Witchology, and more. <em>Finding the Fool<\/em> is her first book. <\/p><p>Follow Meg: <a href=\"https:\/\/www.instagram.com\/3am.tarot\/\" target=\"_blank\"><span style=\"text-decoration:underline\">@3am.tarot<\/span><\/a><\/p>",
+            "text_max_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "df15bf66-0f24-475f-8dce-097f6b4092ac",
+        "42ec6677-4fb1-4bfb-8384-57adf0057a1a"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Meg_Jones_Wall.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "caption": "",
         "section_contrast": false
       }
     }
@@ -72,6 +772,28 @@
   "order": [
     "main",
     "4e8b7918-21ac-4935-8e8b-42684b4065f7",
-    "c5eefdbf-ca54-4ed7-8f77-44159335d6f6"
+    "d930a30b-31a3-4387-8152-bfd25f63e44e",
+    "c5eefdbf-ca54-4ed7-8f77-44159335d6f6",
+    "e74e0d95-74e2-4dc3-9a8d-121e3a2a6e62",
+    "a640db0d-2f0a-47db-836c-dc6a92f38218",
+    "156686a9-a1e7-4bd5-93fe-abbb77e24545",
+    "8e0ddfe6-2c85-47ec-b352-7123405e1a29",
+    "bb5f1f68-1987-4f17-bed1-509167a8b8fc",
+    "c7aea9f3-f464-4b31-9f94-5eaf1ed2815c",
+    "6e485da3-6b04-42fa-b460-312e84321744",
+    "61f5ebf4-6495-4d92-b7bc-ba6ad2a3ab8f",
+    "38af7238-a040-4c78-97c7-43b9fc60bd3e",
+    "5a7885f3-44b4-4fa2-bdd0-622a4aa6111d",
+    "7c41f3a3-3091-479a-8f15-3745e2040b2c",
+    "91c86cc3-b2c8-447a-bab9-f952b849b53f",
+    "96e661b9-736a-4dd7-9e54-9302a2758d33",
+    "5e052d74-5c6a-40e3-8a7e-68d411a6f8ee",
+    "99bd74c9-221a-4e49-b2dd-0fcd5bda7703",
+    "a99b459b-7edd-4d95-8345-f5c2840c8fee",
+    "fb190ab4-9ece-4d1a-ade6-27ef259ec65f",
+    "329a5cd5-b442-40d6-aead-495069d99877",
+    "0477bda9-f708-442f-8190-5be90ec84182",
+    "eb40bbd2-b2dc-4690-8280-1f4bed125f5b",
+    "efca844e-9340-4568-940f-da02d6724ea5"
   ]
 }

@@ -2,10 +2,88 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "disabled": true,
+      "settings": {
+        "content_max_width": 700
+      }
+    },
+    "c768a08a-a485-4916-86fb-0d5c43344efa": {
+      "type": "custom-html",
+      "settings": {
+        "custom_html": ""
+      }
+    },
+    "7cb1df58-9254-43f8-83fa-6bebc5c8fc00": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15531879628937__7cb1df58-9254-43f8-83fa-6bebc5c8fc00-168925926174a7bbd3-0": {
+          "type": "heading",
+          "settings": {
+            "title": "\"Merkaba\" by Kaitlyn Pietras",
+            "text_max_width": 42
+          }
+        },
+        "template--15531879628937__7cb1df58-9254-43f8-83fa-6bebc5c8fc00-168925926174a7bbd3-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p>In pre-Kabbalah Jewish mysticism, the chariot, or merkaba, helped mystics ascend to higher realms of consciousness to connect with the divine.  Inspired by Ezekiel’s visions, and partially in response to the destruction of the temple, this chariot is not a physical place but a spiritual one.  It is accessible by those pure enough to be trusted with the teachings associated with the merkaba.<\/p><p><strong>How can the chariot help you ascend, or descend, through the layers of your consciousness?  How can you cleanse yourself to show up for such a journey?<\/strong><\/p>",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "template--15531879628937__7cb1df58-9254-43f8-83fa-6bebc5c8fc00-168925926174a7bbd3-0",
+        "template--15531879628937__7cb1df58-9254-43f8-83fa-6bebc5c8fc00-168925926174a7bbd3-1"
+      ],
+      "settings": {
+        "section_contrast": false
+      }
+    },
+    "60b65b7e-c69e-4a53-a710-8331afcacf0c": {
+      "type": "custom-html",
+      "settings": {
+        "custom_html": "<iframe style=\"border-radius:12px\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/7792P4gajPyO7O6CKn7Nuv?utm_source=generator&amp;theme=0\" width=\"75%\" height=\"352\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"><\/iframe>"
+      }
+    },
+    "323ece36-28bd-4737-b1cb-cbfcfd427994": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15531879628937__323ece36-28bd-4737-b1cb-cbfcfd427994-168925926174a7bbd3-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "text_max_width": 42
+          }
+        },
+        "template--15531879628937__323ece36-28bd-4737-b1cb-cbfcfd427994-168925926174a7bbd3-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p>Kaitlyn bio here<\/p>",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "template--15531879628937__323ece36-28bd-4737-b1cb-cbfcfd427994-168925926174a7bbd3-0",
+        "template--15531879628937__323ece36-28bd-4737-b1cb-cbfcfd427994-168925926174a7bbd3-1"
+      ],
+      "settings": {
+        "section_contrast": false
+      }
+    },
+    "f470ba01-ad8e-4dfa-91fd-db187551fed1": {
+      "type": "custom-html",
+      "settings": {
+        "custom_html": "<iframe src=\"https:\/\/therebis.substack.com\/embed\" width=\"\" height=\"320\" style=\" background:white; text-align: center;\" frameborder=\"0\" scrolling=\"no\"><\/iframe>"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "c768a08a-a485-4916-86fb-0d5c43344efa",
+    "7cb1df58-9254-43f8-83fa-6bebc5c8fc00",
+    "60b65b7e-c69e-4a53-a710-8331afcacf0c",
+    "323ece36-28bd-4737-b1cb-cbfcfd427994",
+    "f470ba01-ad8e-4dfa-91fd-db187551fed1"
   ]
 }
