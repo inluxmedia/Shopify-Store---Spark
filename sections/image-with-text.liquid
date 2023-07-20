@@ -17,10 +17,10 @@
 }
 
 {% endstyle %}
-
+{%- for block in section.blocks -%}
 {%- liquid
-  assign image_1 = section.settings.image_1
-  assign image_2 = section.settings.image_2
+  assign image_1 = block.settings.image_1
+  assign image_2 = block.settings.image_2
   assign image_modifier = 'single-image'
 
   if image_1 and image_2
@@ -29,7 +29,7 @@
 
   assign image_is_constrained = true
 
-  if section.settings.aspect_ratio == 'natural'
+  if block.settings.aspect_ratio == 'natural'
     assign image_is_constrained = false
   endif
 -%}
@@ -37,13 +37,13 @@
 <div
   class="
     image-with-text
-    image-with-text--image-{{ section.settings.image_position }}
+    image-with-text--image-{{ block.settings.image_position }}
     image-with-text--{{ image_modifier }}
-    image-with-text--{{ section.settings.aspect_ratio }}
-    image-with-text--image-{{ section.settings.image_width }}
-    image-with-text--align-{{ section.settings.text_alignment }}
+    image-with-text--{{ block.settings.aspect_ratio }}
+    image-with-text--image-{{ block.settings.image_width }}
+    image-with-text--align-{{ block.settings.text_alignment }}
     section
-    {% if section.settings.section_contrast -%}
+    {% if block.settings.section_contrast -%}
       section--contrast
     {%- endif %}
   "
@@ -87,144 +87,124 @@
           </div>
         {%- endif -%}
       </div>
-      {%- if section.settings.caption != blank -%}
-        <p class="fs-body-x-small caption">{{section.settings.caption}}</p>
+      {%- if block.settings.caption != blank -%}
+        <p class="fs-body-x-small caption">{{block.settings.caption}}</p>
       {%- endif -%}
     </div>
 
     <div class="image-with-text__text-container">
-      {%- for block in section.blocks -%}
-        {%- case block.type -%}
-          {%- when 'heading' -%}
-            {%- unless block.settings.title == blank -%}
-              <h2
-                class="image-with-text__heading ff-heading fs-heading-2-base fs-heading-1-base-ns"
-                style="--text-max-width: {{  block.settings.text_max_width }}rem;"
-              >
-                {{ block.settings.title | newline_to_br }}
-              </h2>
-            {%- endunless -%}
+          {%- unless block.settings.title == blank -%}
+            <h2
+              class="image-with-text__heading ff-heading fs-heading-2-base fs-heading-1-base-ns"
+              style="--text-max-width: {{  block.settings.text_max_width }}rem;"
+            >
+              {{ block.settings.title | newline_to_br }}
+            </h2>
+          {%- endunless -%}
 
-          {%- when 'subheading' -%}
-            {%- unless block.settings.subheading == blank -%}
-              <div
-                class="image-with-text__subheading rte ff-body fs-body-base fs-body-large-ns"
-                style="--text-max-width: {{  block.settings.text_max_width }}rem;"
-              >
-                {{ block.settings.subheading }}
-              </div>
-            {%- endunless -%}
-
-          {%- when 'button' -%}
-            {%- if block.settings.link != blank and block.settings.link_text != blank -%}
-              <a href="{{ block.settings.link }}" class="image-with-text__button fs-body-base btn btn--primary btn--medium">
-                {{ block.settings.link_text }}
-              </a>
-            {%- endif -%}
-
-        {%- endcase -%}
-      {%- endfor -%}
+          {%- unless block.settings.subheading == blank -%}
+            <div
+              class="image-with-text__subheading rte ff-body fs-body-base fs-body-large-ns"
+              style="--text-max-width: {{  block.settings.text_max_width }}rem;"
+            >
+              {{ block.settings.subheading }}
+            </div>
+          {%- endunless -%}
+          {%- if block.settings.link != blank and block.settings.link_text != blank -%}
+            <a href="{{ block.settings.link }}" class="image-with-text__button fs-body-base btn btn--primary btn--medium">
+              {{ block.settings.link_text }}
+            </a>
+          {%- endif -%}
     </div>
   </div>
 </div>
-
+{%- endfor -%}
 {% schema %}
   {
     "name": "t:sections.image_with_text.name",
     "tag": "section",
     "class": "shopify-section--stackable shopify-section--image-first",
     "settings": [
-      {
-        "id": "image_1",
-        "type": "image_picker",
-        "label": "t:sections.image_with_text.settings.image_1.label"
-      },
-      {
-        "id": "image_2",
-        "type": "image_picker",
-        "label": "t:sections.image_with_text.settings.image_2.label"
-      },
-      {
-        "type": "select",
-        "id": "image_position",
-        "label": "t:sections.image_with_text.settings.image_position.label",
-        "default": "right",
-        "options": [
-          {
-            "value": "left",
-            "label": "t:sections.image_with_text.settings.image_position.options__1"
-          },
-          {
-            "value": "right",
-            "label": "t:sections.image_with_text.settings.image_position.options__2"
-          }
-        ]
-      },
-      {
-        "id": "image_width",
-        "type": "select",
-        "label": "t:sections.image_with_text.settings.image_width.label",
-        "options": [
-          { "label": "t:sections.image_with_text.settings.image_width.options__1", "value": "half" },
-          { "label": "t:sections.image_with_text.settings.image_width.options__2", "value": "two-thirds" }
-        ],
-        "default": "half"
-      },
-      {
-        "id": "aspect_ratio",
-        "type": "select",
-        "label": "t:sections.image_with_text.settings.aspect_ratio.label",
-        "options": [
-          { "label": "t:sections.image_with_text.settings.aspect_ratio.options__1", "value": "natural" },
-          { "label": "t:sections.image_with_text.settings.aspect_ratio.options__2", "value": "square" },
-          { "label": "t:sections.image_with_text.settings.aspect_ratio.options__3", "value": "landscape" },
-          { "label": "t:sections.image_with_text.settings.aspect_ratio.options__4", "value": "portrait" }
-        ],
-        "default": "natural"
-      },
-      {
-        "type": "select",
-        "id": "text_alignment",
-        "label": "t:sections.image_with_text.settings.text_alignment.label",
-        "default": "left",
-        "options": [
-          {
-            "value": "left",
-            "label": "t:sections.image_with_text.settings.text_alignment.options__1"
-          },
-          {
-            "value": "center",
-            "label": "t:sections.image_with_text.settings.text_alignment.options__2"
-          },
-          {
-            "value": "right",
-            "label": "t:sections.image_with_text.settings.text_alignment.options__3"
-          }
-        ]
-      },
-	  {
-        "type": "text",
-        "id": "caption",
-        "label": "Caption",
-        "default": "Paramount Studios. Chicago Manual of Style. 2019. The University of Chicago Press."
-      },
-      {
-        "id": "section_contrast",
-        "type": "checkbox",
-        "label": "t:sections.image_with_text.settings.section_contrast.label",
-        "default": false
-      }
+      
     ],
     "blocks": [
       {
-        "type": "heading",
-        "name": "t:sections.image_with_text.blocks.heading.name",
-        "limit": 1,
+        "type": "image_with_text",
+        "name": "content",
+        "limit": 15,
         "settings": [
+          {
+            "id": "image_1",
+            "type": "image_picker",
+            "label": "t:sections.image_with_text.settings.image_1.label"
+          },
+          {
+            "id": "image_2",
+            "type": "image_picker",
+            "label": "t:sections.image_with_text.settings.image_2.label"
+          },
+          {
+            "type": "select",
+            "id": "image_position",
+            "label": "t:sections.image_with_text.settings.image_position.label",
+            "default": "right",
+            "options": [
+              {
+                "value": "left",
+                "label": "t:sections.image_with_text.settings.image_position.options__1"
+              },
+              {
+                "value": "right",
+                "label": "t:sections.image_with_text.settings.image_position.options__2"
+              }
+            ]
+          },
+          {
+            "id": "image_width",
+            "type": "select",
+            "label": "t:sections.image_with_text.settings.image_width.label",
+            "options": [
+              { "label": "t:sections.image_with_text.settings.image_width.options__1", "value": "half" },
+              { "label": "t:sections.image_with_text.settings.image_width.options__2", "value": "two-thirds" }
+            ],
+            "default": "half"
+          },
+          {
+            "id": "aspect_ratio",
+            "type": "select",
+            "label": "t:sections.image_with_text.settings.aspect_ratio.label",
+            "options": [
+              { "label": "t:sections.image_with_text.settings.aspect_ratio.options__1", "value": "natural" },
+              { "label": "t:sections.image_with_text.settings.aspect_ratio.options__2", "value": "square" },
+              { "label": "t:sections.image_with_text.settings.aspect_ratio.options__3", "value": "landscape" },
+              { "label": "t:sections.image_with_text.settings.aspect_ratio.options__4", "value": "portrait" }
+            ],
+            "default": "natural"
+          },
+          {
+            "type": "select",
+            "id": "text_alignment",
+            "label": "t:sections.image_with_text.settings.text_alignment.label",
+            "default": "left",
+            "options": [
+              {
+                "value": "left",
+                "label": "t:sections.image_with_text.settings.text_alignment.options__1"
+              },
+              {
+                "value": "center",
+                "label": "t:sections.image_with_text.settings.text_alignment.options__2"
+              },
+              {
+                "value": "right",
+                "label": "t:sections.image_with_text.settings.text_alignment.options__3"
+              }
+            ]
+          },
           {
             "id": "title",
             "type": "text",
-            "label": "t:sections.image_with_text.blocks.heading.settings.title.label",
+            "label": "Heading",
             "default": "Image with text"
           },
           {
@@ -235,14 +215,7 @@
             "max": 48,
             "step": 1,
             "default": 32
-          }
-        ]
-      },
-      {
-        "type": "subheading",
-        "name": "t:sections.image_with_text.blocks.subheading.name",
-        "limit": 1,
-        "settings": [
+          },
           {
             "id": "subheading",
             "type": "richtext",
@@ -251,20 +224,13 @@
           },
           {
             "type": "range",
-            "id": "text_max_width",
+            "id": "sub_text_max_width",
             "label": "t:sections.image_with_text.blocks.subheading.settings.text_max_width.label",
             "min": 24,
             "max": 48,
             "step": 1,
             "default": 32
-          }
-        ]
-      },
-      {
-        "type": "button",
-        "name": "t:sections.image_with_text.blocks.button.name",
-        "limit": 1,
-        "settings": [
+          },
           {
             "id": "link",
             "type": "url",
@@ -275,21 +241,25 @@
             "type": "text",
             "label": "t:sections.image_with_text.blocks.button.settings.link_text.label",
             "default": "Read more"
+          },
+          {
+            "type": "text",
+            "id": "caption",
+            "label": "Caption",
+            "default": "Paramount Studios. Chicago Manual of Style. 2019. The University of Chicago Press."
+          },
+          {
+            "id": "section_contrast",
+            "type": "checkbox",
+            "label": "t:sections.image_with_text.settings.section_contrast.label",
+            "default": false
           }
         ]
       }
     ],
     "presets": [
       {
-        "name": "t:sections.image_with_text.presets.name",
-        "blocks": [
-          {
-            "type": "heading"
-          },
-          {
-            "type": "subheading"
-          }
-        ]
+        "name": "Image with text"
       }
     ]
   }
