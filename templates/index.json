@@ -40,6 +40,42 @@
         "color_dot": "#ffffff"
       }
     },
+    "93aa65ef-1ba2-4f4c-8b5e-6e9410ba4c34": {
+      "type": "rich-text",
+      "blocks": {
+        "c0c1ded9-177f-4043-bdaa-ebdb3e2a8855": {
+          "type": "heading",
+          "settings": {
+            "title": "Vol. 2: Chariot • Fall 2023",
+            "text_max_width": 48
+          }
+        },
+        "cd876070-7bc8-4a5b-bfb4-cf0fc3d4ec70": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p>The second edition of The Rebis is a deep exploration of The Chariot, the seventh card of the Major Arcana. <\/p><p><a href=\"\/pages\/chariot-contributors\" title=\"Chariot Anthology Contributors\"><strong>See who's contributing<\/strong><\/a><\/p>",
+            "text_max_width": 48
+          }
+        },
+        "c945e4cd-e7fa-427a-bf7c-13dec4d94467": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link": "shopify:\/\/pages\/chariot-contributors",
+            "link_text": "List of contributors"
+          }
+        }
+      },
+      "block_order": [
+        "c0c1ded9-177f-4043-bdaa-ebdb3e2a8855",
+        "cd876070-7bc8-4a5b-bfb4-cf0fc3d4ec70",
+        "c945e4cd-e7fa-427a-bf7c-13dec4d94467"
+      ],
+      "custom_css": [],
+      "settings": {
+        "section_contrast": false
+      }
+    },
     "16533460773822da77": {
       "type": "video-hero",
       "settings": {
@@ -56,65 +92,24 @@
         "overlay_opacity": 0
       }
     },
-    "7eadee1e-f611-47dd-ba33-ee817946ae43": {
-      "type": "image-with-text",
-      "blocks": {
-        "925cc621-e543-46ac-bf95-4ef3e47d7d9c": {
-          "type": "heading",
-          "settings": {
-            "title": "The Rebis: Chariot",
-            "text_max_width": 48
-          }
-        },
-        "92bf5f0f-673d-45f2-b66f-d3e6e95eb19d": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>Our second anthology will focus on The Chariot, the seventh card of the Major Arcana. Coming Fall 2023.<\/p><p><a href=\"https:\/\/therebis.substack.com\/\" title=\"https:\/\/therebis.substack.com\/\"><strong>Subscribe for updates<\/strong><\/a><\/p>",
-            "text_max_width": 48
-          }
-        },
-        "c469090c-e091-4182-a0d3-895cf1aeddf8": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "link": "shopify:\/\/products\/wheel-of-fortune",
-            "link_text": "Follow for updates"
-          }
-        }
-      },
-      "block_order": [
-        "925cc621-e543-46ac-bf95-4ef3e47d7d9c",
-        "92bf5f0f-673d-45f2-b66f-d3e6e95eb19d",
-        "c469090c-e091-4182-a0d3-895cf1aeddf8"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/Chariot_coming_Fall.jpg",
-        "image_position": "right",
-        "image_width": "half",
-        "aspect_ratio": "square",
-        "text_alignment": "center",
-        "caption": "",
-        "section_contrast": false
-      }
-    },
-    "93aa65ef-1ba2-4f4c-8b5e-6e9410ba4c34": {
+    "147ffdee-052a-43b4-8601-7f401c84491e": {
       "type": "rich-text",
       "blocks": {
-        "c0c1ded9-177f-4043-bdaa-ebdb3e2a8855": {
+        "b0190953-007e-4cf3-9589-b19731a1138c": {
           "type": "heading",
           "settings": {
-            "title": "Our ethos",
+            "title": "〰️ Our ethos 〰️",
             "text_max_width": 48
           }
         },
-        "cd876070-7bc8-4a5b-bfb4-cf0fc3d4ec70": {
+        "b9584bda-91a8-43f6-a9c9-85ff9b860d8c": {
           "type": "text",
           "settings": {
             "subheading": "<p>Community • Creativity • Reciprocity<\/p><p>The Rebis commits to centering underrepresented voices, paying creatives fairly for their work, and redistributing profits to social justice orgs. <\/p><p><a href=\"https:\/\/www.therebis.com\/pages\/mission-statement\" title=\"https:\/\/www.therebis.com\/pages\/mission-statement\"><strong>Learn more<\/strong><\/a><\/p>",
             "text_max_width": 48
           }
         },
-        "c945e4cd-e7fa-427a-bf7c-13dec4d94467": {
+        "283f9b85-e618-42fb-9902-899d571ed6a3": {
           "type": "button",
           "disabled": true,
           "settings": {
@@ -124,11 +119,10 @@
         }
       },
       "block_order": [
-        "c0c1ded9-177f-4043-bdaa-ebdb3e2a8855",
-        "cd876070-7bc8-4a5b-bfb4-cf0fc3d4ec70",
-        "c945e4cd-e7fa-427a-bf7c-13dec4d94467"
+        "b0190953-007e-4cf3-9589-b19731a1138c",
+        "b9584bda-91a8-43f6-a9c9-85ff9b860d8c",
+        "283f9b85-e618-42fb-9902-899d571ed6a3"
       ],
-      "custom_css": [],
       "settings": {
         "section_contrast": false
       }
@@ -136,46 +130,10 @@
     "image-with-text-1": {
       "type": "image-with-text",
       "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "The Rebis: Chariot coming Fall 2023",
-            "text_max_width": 48
-          }
-        },
-        "7e151da6-0320-41dd-930d-a1e72fdbd645": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>Our second anthology will focus on The Chariot. We will be featuring original writing, artwork, and other forms of creative expression inspired by the seventh card of the Major Arcana.<\/p>",
-            "text_max_width": 48
-          }
-        },
-        "b79da81b-46dd-4931-b92d-eee1489116d7": {
-          "type": "button",
-          "settings": {
-            "link": "",
-            "link_text": "Follow for updates"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "7e151da6-0320-41dd-930d-a1e72fdbd645",
-        "b79da81b-46dd-4931-b92d-eee1489116d7"
-      ],
       "custom_css": [
         "h2 {font-size: 40px;}"
       ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/Chariot_coming_Fall.jpg",
-        "image_position": "right",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
+      "settings": {}
     },
     "16533471187f2d66b6": {
       "type": "slideshow",
@@ -264,9 +222,9 @@
   },
   "order": [
     "3f5861d0-2f6c-4117-a5dc-e768e465fde2",
-    "16533460773822da77",
-    "7eadee1e-f611-47dd-ba33-ee817946ae43",
     "93aa65ef-1ba2-4f4c-8b5e-6e9410ba4c34",
+    "16533460773822da77",
+    "147ffdee-052a-43b4-8601-7f401c84491e",
     "image-with-text-1",
     "16533471187f2d66b6",
     "867df555-696d-452a-b829-08dc96abf448",

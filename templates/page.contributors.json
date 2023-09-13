@@ -9,482 +9,319 @@
     "1656600057e0ae6385": {
       "type": "image-with-text",
       "blocks": {
-        "1656600057da441ae4-0": {
-          "type": "heading",
+        "d2966e9a-e733-4429-aa82-4c9289cc004d": {
+          "type": "image_with_text",
           "settings": {
+            "image_1": "shopify:\/\/shop_images\/Xaviera.png",
+            "image_position": "left",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
             "title": "Xaviera López",
-            "text_max_width": 32
+            "text_max_width": 32,
+            "subheading": "<p>Xaviera (she\/her) is a Chilean artist and animator, and the creative director of The Rebis. Her linear drawings, animations, and short format looping videos incorporate simplified yet highly contextual self-portraits and images that display the meeting place of the material and the ethereal, and challenge perceived delineations between the felt and seen.<\/p><p>Follow Xaviera: <a href=\"https:\/\/www.instagram.com\/xavieralopez\/\"><span style=\"text-decoration:underline\">@xavieralopez<\/span><\/a><\/p>",
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
           }
         },
-        "1656600057da441ae4-1": {
-          "type": "subheading",
+        "24733bad-3ee9-404b-96b3-a8892eb02f28": {
+          "type": "image_with_text",
           "settings": {
-            "subheading": "<p>Xaviera (she\/her) is a Chilean artist and animator, and the creative director of The Rebis. Her linear drawings, animations, and short format looping videos incorporate simplified yet highly contextual self-portraits and images that display the meeting place of the material and the ethereal, and challenge perceived delineations between the felt and seen.<\/p><p>Follow Xaviera: <a href=\"https:\/\/www.instagram.com\/xavieralopez\/\"><span style=\"text-decoration:underline\">@xavieralopez<\/span><\/a><\/p>",
-            "text_max_width": 32
+            "image_1": "shopify:\/\/shop_images\/Kim_Rashidi.jpg",
+            "image_position": "right",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
+            "title": "Kim Rashidi",
+            "text_max_width": 32,
+            "subheading": "<p>Kim (she\/her) is a poet exploring the cosmos through her words. She has a soft spot for capturing love and life in the mundane. Writing about the lives, cities, and timelines that mirror back the romantic, she weaves reality with imagined possibilities. She holds an MA in English literature and has taken to poetry since she was 16. She is the author of <a href=\"https:\/\/www.simonandschuster.com\/books\/Fortunate\/Kim-Rashidi\/9781524873875\"><span style=\"text-decoration:underline\"><em>Fortunate: Tarot Poetry<\/em><\/span><\/a> published by Andrews McMeel.<\/p><p>Follow Kim: <a href=\"https:\/\/www.instagram.com\/kimrashidi\/\"><span style=\"text-decoration:underline\">@kimrashidi<\/span><\/a><\/p>",
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
+          }
+        },
+        "3eca695f-26be-4b8f-97da-f3a353591285": {
+          "type": "image_with_text",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/Anthony_Perrotta.jpg",
+            "image_position": "left",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
+            "title": "Anthony Perrotta",
+            "text_max_width": 32,
+            "subheading": "<p>Anthony (he\/him) is an astrologer, artist, poet, designer & curator. He spends his time running his astrological business where he specializes in making the abstract feel more tangible. He has a background in Fashion and Interior Design and has spent years bridging the gap between his passions. Anthony is also the creator and editor of the Astro Edit, an astrological magazine. He believes that magic is in the mundane, and it moves through even the simplest of gestures.<\/p><p>Follow Anthony: <a href=\"https:\/\/www.instagram.com\/ap_astrology\/\"><span style=\"text-decoration:underline\">@ap_astrology<\/span><\/a><\/p>",
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
+          }
+        },
+        "f575c475-d59e-4439-9d7e-903ff097a546": {
+          "type": "image_with_text",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/Eryn_5c01426c-5759-4cd9-8b3c-f83e7357e99d.jpg",
+            "image_position": "right",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
+            "title": "Eryn Johnson",
+            "text_max_width": 32,
+            "subheading": "<p>Eryn (she\/they) is a queer breathwork facilitator and writer based in Philadelphia. They write to remember, to heal, to process. Her poetry explores the impacts of religious trauma and cisheteropatriarchy, telling stories of survival and of becoming. <\/p><p>Follow Eryn: <a href=\"https:\/\/www.instagram.com\/erynj_\/\"><span style=\"text-decoration:underline\">@erynj_<\/span><\/a><\/p>",
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
           }
         }
       },
       "block_order": [
-        "1656600057da441ae4-0",
-        "1656600057da441ae4-1"
+        "d2966e9a-e733-4429-aa82-4c9289cc004d",
+        "24733bad-3ee9-404b-96b3-a8892eb02f28",
+        "3eca695f-26be-4b8f-97da-f3a353591285",
+        "f575c475-d59e-4439-9d7e-903ff097a546"
       ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/Xaviera.png",
-        "image_position": "left",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
+      "settings": {}
     },
     "165660081561350ce5": {
       "type": "image-with-text",
       "blocks": {
-        "1656600815f2e4565f-0": {
-          "type": "heading",
+        "abb851e8-644f-41e3-af76-b8b242c4608f": {
+          "type": "image_with_text",
           "settings": {
-            "title": "Kim Rashidi",
-            "text_max_width": 32
+            "image_1": "shopify:\/\/shop_images\/Sarah_bddafb69-8094-4da4-b6ad-2a2783d0eea6.png",
+            "image_position": "left",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
+            "title": "Sarah Ann Winn",
+            "text_max_width": 32,
+            "subheading": "<p>Sarah (she\/her) is the author of <em>Alma Almanac<\/em> (Barrow Street, 2017), and five chapbooks, including the witchy <em>Haunting the Last House on Holland Island<\/em> (Porkbelly Press, 2016) and <em>Ever After the End Matter<\/em> (Porkbelly, 2019). <\/p><p>Follow Sarah: <a href=\"https:\/\/www.instagram.com\/blueaisling\/\"><span style=\"text-decoration:underline\">@blueaisling<\/span><\/a><\/p>",
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
           }
         },
-        "1656600815f2e4565f-1": {
-          "type": "subheading",
+        "072b3c76-b258-4099-ac3b-f917ae816a98": {
+          "type": "image_with_text",
           "settings": {
-            "subheading": "<p>Kim (she\/her) is a poet exploring the cosmos through her words. She has a soft spot for capturing love and life in the mundane. Writing about the lives, cities, and timelines that mirror back the romantic, she weaves reality with imagined possibilities. She holds an MA in English literature and has taken to poetry since she was 16. She is the author of <a href=\"https:\/\/www.simonandschuster.com\/books\/Fortunate\/Kim-Rashidi\/9781524873875\"><span style=\"text-decoration:underline\"><em>Fortunate: Tarot Poetry<\/em><\/span><\/a> published by Andrews McMeel.<\/p><p>Follow Kim: <a href=\"https:\/\/www.instagram.com\/kimrashidi\/\"><span style=\"text-decoration:underline\">@kimrashidi<\/span><\/a><\/p>",
-            "text_max_width": 32
+            "image_1": "shopify:\/\/shop_images\/Maria_Minnis_1_57b25ad3-7e8c-4b8b-91b1-b1e57104fab9.png",
+            "image_position": "right",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
+            "title": "Maria Minnis",
+            "text_max_width": 32,
+            "subheading": "<p>Maria (she\/her) is a Bay Area-based writer, artist, ritual facilitator, and teacher with Southern roots who writes and teaches about everyday magic and holographic thinking in the context of social justice and liberation. Sparked by a Kundalini awakening after a near-death experience, her work is inspired by voids, whale songs, Southern ritual, the moon, movement, experience, plant wisdom, and infinite interconnectedness. She is unapologetically Black and wildly intent on living on purpose. <\/p><p>Follow Maria: <a href=\"https:\/\/www.instagram.com\/feminnis\/\"><span style=\"text-decoration:underline\">@feminnis<\/span><\/a><\/p>",
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "Paramount Studios. Chicago Manual of Style. 2019. The University of Chicago Press.",
+            "section_contrast": false
+          }
+        },
+        "8c090c60-8dc0-4bd6-bb8c-bed769bd0b30": {
+          "type": "image_with_text",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/shewolf_295e7701-1f75-489d-b126-06b52d182530.jpg",
+            "image_position": "left",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
+            "title": "Helen Shewolfe Tseng",
+            "text_max_width": 32,
+            "subheading": "<p>Helen (they\/she\/wolf) is an interdisciplinary artist, designer, witch, and naturalist born to Taiwanese immigrants in the Deep South. Their work is influenced by ancestral and diasporic cosmologies, interspecies collaborations, trickster archetypes, and neurodivergence. Helen was a 2018-2019 YBCA Fellow, 2019 Designer in Residence at Headlands Center for the Arts, illustrator and co-author of <a href=\"https:\/\/www.chroniclebooks.com\/products\/the-astrological-grimoire\"><span style=\"text-decoration:underline\"><em>The Astrological Grimoire<\/em><\/span><\/a>, former co-host of <em>Astral Projection Radio Hour<\/em> (2014-2020), and co-author of Virgie Tovar’s <a href=\"http:\/\/bodypositivetarot.com\/\"><span style=\"text-decoration:underline\"><em>Body Positive Tarot<\/em><\/span><\/a> course. <\/p><p>Follow Helen: <a href=\"http:\/\/instagram.com\/wolfchirp\"><span style=\"text-decoration:underline\">@wolfchirp<\/span><\/a><\/p>",
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
+          }
+        },
+        "8513f93c-5453-4d52-a4c8-4e197b3aa338": {
+          "type": "image_with_text",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/joe_5689362a-e167-4d49-aa89-e31363cbf20f.jpg",
+            "image_position": "right",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
+            "title": "Joseph Chaplain",
+            "text_max_width": 32,
+            "subheading": "<p>Joseph (he\/him) is a relatively new writer, currently living in the Peak District with his wife and their cat. When not writing, he can usually be found ambling around the local countryside or playing weird music in a dark room somewhere. His short fiction has been published by Crystal Peake as part of their <a href=\"https:\/\/crystalpeake.co.uk\/books\/folklore-a-dark-anthology\/\"><span style=\"text-decoration:underline\">Dark Folklore anthology<\/span><\/a>, and his poetry has been published by Coverstory Books in their <a href=\"https:\/\/coverstorybooks.com\/new-contexts-1-an-anthology\/\"><span style=\"text-decoration:underline\">New Contexts<\/span><\/a> anthologies.<\/p>",
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
           }
         }
       },
       "block_order": [
-        "1656600815f2e4565f-0",
-        "1656600815f2e4565f-1"
+        "abb851e8-644f-41e3-af76-b8b242c4608f",
+        "072b3c76-b258-4099-ac3b-f917ae816a98",
+        "8c090c60-8dc0-4bd6-bb8c-bed769bd0b30",
+        "8513f93c-5453-4d52-a4c8-4e197b3aa338"
       ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/kim_0ef4350b-9615-426f-8324-06d09d5accf8.jpg",
-        "image_position": "right",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
+      "settings": {}
     },
     "1656599682bd54a3f3": {
       "type": "image-with-text",
       "blocks": {
-        "1656599682c1945b30-0": {
-          "type": "heading",
+        "710adf00-c1dc-46e6-aeaf-2af49efca53c": {
+          "type": "image_with_text",
           "settings": {
-            "title": "Anthony Perrotta",
-            "text_max_width": 32
+            "image_1": "shopify:\/\/shop_images\/loraine.jpg",
+            "image_position": "left",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
+            "title": "Lorraine Schein",
+            "text_max_width": 32,
+            "subheading": "<p>Lorraine (she\/her) is a New York writer and sometimes tarot reader. Her work has appeared in VICE <em>Terraform<\/em>, <em>Strange Horizons<\/em>, <em>Witches & Pagans<\/em>, and <em>Mermaids Monthly<\/em>, and in the anthology <em>Tragedy Queens: Stories Inspired by Lana del Rey & Sylvia Plath<\/em>. <em>The Futurist’s Mistress<\/em>, her poetry book, is available from Mayapple Press. Her new book of poetry and science fiction <a href=\"https:\/\/www.amazon.com\/Lady-Anarchist-Caf%C3%A9-Lorraine-Schein\/dp\/157027391X\/\"><span style=\"text-decoration:underline\">The Lady Anarchist Café<\/span><\/a> is out now from Autonomedia.<\/p>",
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
           }
         },
-        "1656599682c1945b30-1": {
-          "type": "subheading",
+        "c0d10241-bf80-4ea9-9690-0467b07c5228": {
+          "type": "image_with_text",
           "settings": {
-            "subheading": "<p>Anthony (he\/him) is an astrologer, artist, poet, designer & curator. He spends his time running his astrological business where he specializes in making the abstract feel more tangible. He has a background in Fashion and Interior Design and has spent years bridging the gap between his passions. Anthony is also the creator and editor of the Astro Edit, an astrological magazine. He believes that magic is in the mundane, and it moves through even the simplest of gestures.<\/p><p>Follow Anthony: <a href=\"https:\/\/www.instagram.com\/ap_astrology\/\"><span style=\"text-decoration:underline\">@ap_astrology<\/span><\/a><\/p>",
-            "text_max_width": 32
+            "image_1": "shopify:\/\/shop_images\/vali_fafffeaa-8983-4b15-83bc-8b900707a435.png",
+            "image_position": "right",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
+            "title": "Valentina Alvarez",
+            "text_max_width": 32,
+            "subheading": "<p>Valentina (she\/her) is a visual artist born in Caracas, Venezuela. Her work highlights strength and beauty, motifs linked to the diversity and identity of human beings, through her photography and designs. She searches for the organic expression of bodies in her subjects throughout movements from the ancestral call, the contemporary, and symbolic world. <\/p><p>Follow Valentina: <a href=\"https:\/\/www.instagram.com\/valentinalv\/\"><span style=\"text-decoration:underline\">@valentinalv<\/span><\/a><\/p>",
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
+          }
+        },
+        "234cecf6-a05a-4ef0-9edb-6fa43582e2e5": {
+          "type": "image_with_text",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/alyssa_0a6d0e7a-a7f9-435f-b57b-a14b817ff64e.jpg",
+            "image_position": "left",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
+            "title": "Alyssa Polizzi",
+            "text_max_width": 32,
+            "subheading": "<p>Alyssa (she\/her) is an educator, speaker, and coach. She lectures and writes about symbolic and archetypal systems of thought via Jungian theory, mythology, the shadow, dreams, tarot, personality typology, and alchemy. <\/p><p>Follow Alyssa: <a href=\"https:\/\/www.instagram.com\/alyssa.polizzi\/\"><span style=\"text-decoration:underline\">@alyssa.polizzi<\/span><\/a><\/p>",
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
+          }
+        },
+        "51ab2459-e94f-482c-a1dc-4b71b6f18c95": {
+          "type": "image_with_text",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/Copy_of_SelfPortrait_2_extra_8a736fcb-cd35-4adc-8f44-ece80bf78fec.jpg",
+            "image_position": "right",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
+            "title": "Nicolas Bruno",
+            "text_max_width": 32,
+            "subheading": "<p>Nicholas (he\/him) is a photographer, artist, and the creator of <a href=\"https:\/\/www.somniatarot.com\/\"><span style=\"text-decoration:underline\">Somnia Tarot<\/span><\/a>. He weaves together his terrifying experiences of sleep paralysis with surreal self-portraiture in a therapeutic translation of night terror to image. His constructed worlds of uncertainty exist on plane between waking and sleeping, where he is tormented by a physical embrace of the subconscious and its perils, all while being paralyzed in bed. Influences of 19th-century Romanticists, historical texts of occultism, and dream symbolism lace each composition with various visual dialogues of the macabre. <\/p><p>Follow Nicolas: <a href=\"https:\/\/www.instagram.com\/nicolasbruno\/\"><span style=\"text-decoration:underline\">@nicolasbruno<\/span><\/a><\/p>",
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
           }
         }
       },
       "block_order": [
-        "1656599682c1945b30-0",
-        "1656599682c1945b30-1"
+        "710adf00-c1dc-46e6-aeaf-2af49efca53c",
+        "c0d10241-bf80-4ea9-9690-0467b07c5228",
+        "234cecf6-a05a-4ef0-9edb-6fa43582e2e5",
+        "51ab2459-e94f-482c-a1dc-4b71b6f18c95"
       ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/anthony_891fd449-7248-4cbd-9faa-de5abe7cc0c4.jpg",
-        "image_position": "left",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
+      "settings": {}
     },
     "16566008868042fd6f": {
       "type": "image-with-text",
       "blocks": {
-        "1656600886f368812d-0": {
-          "type": "heading",
+        "d82bc842-b915-4b75-9efb-994e5c91a049": {
+          "type": "image_with_text",
           "settings": {
-            "title": "Eryn Johnson",
-            "text_max_width": 32
-          }
-        },
-        "1656600886f368812d-1": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>Eryn (she\/they) is a queer breathwork facilitator and writer based in Philadelphia. They write to remember, to heal, to process. Her poetry explores the impacts of religious trauma and cisheteropatriarchy, telling stories of survival and of becoming. <\/p><p>Follow Eryn: <a href=\"https:\/\/www.instagram.com\/erynj_\/\"><span style=\"text-decoration:underline\">@erynj_<\/span><\/a><\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "1656600886f368812d-0",
-        "1656600886f368812d-1"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/Eryn_5c01426c-5759-4cd9-8b3c-f83e7357e99d.jpg",
-        "image_position": "right",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
-    },
-    "165660110333534ec9": {
-      "type": "image-with-text",
-      "blocks": {
-        "165660110357fa1db9-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Sarah Ann Winn",
-            "text_max_width": 32
-          }
-        },
-        "165660110357fa1db9-1": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>Sarah (she\/her) is the author of <em>Alma Almanac<\/em> (Barrow Street, 2017), and five chapbooks, including the witchy <em>Haunting the Last House on Holland Island<\/em> (Porkbelly Press, 2016) and <em>Ever After the End Matter<\/em> (Porkbelly, 2019). <\/p><p>Follow Sarah: <a href=\"https:\/\/www.instagram.com\/blueaisling\/\"><span style=\"text-decoration:underline\">@blueaisling<\/span><\/a><\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "165660110357fa1db9-0",
-        "165660110357fa1db9-1"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/Sarah_bddafb69-8094-4da4-b6ad-2a2783d0eea6.png",
-        "image_position": "left",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
-    },
-    "1656601286bfb33d1f": {
-      "type": "image-with-text",
-      "blocks": {
-        "165660128590d2bf74-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Maria Minnis",
-            "text_max_width": 32
-          }
-        },
-        "165660128590d2bf74-1": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>Maria (she\/her) is a Bay Area-based writer, artist, ritual facilitator, and teacher with Southern roots who writes and teaches about everyday magic and holographic thinking in the context of social justice and liberation. Sparked by a Kundalini awakening after a near-death experience, her work is inspired by voids, whale songs, Southern ritual, the moon, movement, experience, plant wisdom, and infinite interconnectedness. She is unapologetically Black and wildly intent on living on purpose. <\/p><p>Follow Maria: <a href=\"https:\/\/www.instagram.com\/feminnis\/\"><span style=\"text-decoration:underline\">@feminnis<\/span><\/a><\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "165660128590d2bf74-0",
-        "165660128590d2bf74-1"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/Maria_Minnis_1_57b25ad3-7e8c-4b8b-91b1-b1e57104fab9.png",
-        "image_position": "right",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
-    },
-    "165660129075f893ab": {
-      "type": "image-with-text",
-      "blocks": {
-        "16566012900dc06bef-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Helen Shewolfe Tseng",
-            "text_max_width": 32
-          }
-        },
-        "16566012900dc06bef-1": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>Helen (they\/she\/wolf) is an interdisciplinary artist, designer, witch, and naturalist born to Taiwanese immigrants in the Deep South. Their work is influenced by ancestral and diasporic cosmologies, interspecies collaborations, trickster archetypes, and neurodivergence. Helen was a 2018-2019 YBCA Fellow, 2019 Designer in Residence at Headlands Center for the Arts, illustrator and co-author of <a href=\"https:\/\/www.chroniclebooks.com\/products\/the-astrological-grimoire\"><span style=\"text-decoration:underline\"><em>The Astrological Grimoire<\/em><\/span><\/a>, former co-host of <em>Astral Projection Radio Hour<\/em> (2014-2020), and co-author of Virgie Tovar’s <a href=\"http:\/\/bodypositivetarot.com\/\"><span style=\"text-decoration:underline\"><em>Body Positive Tarot<\/em><\/span><\/a> course. <\/p><p>Follow Helen: <a href=\"http:\/\/instagram.com\/wolfchirp\"><span style=\"text-decoration:underline\">@wolfchirp<\/span><\/a><\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "16566012900dc06bef-0",
-        "16566012900dc06bef-1"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/shewolf_295e7701-1f75-489d-b126-06b52d182530.jpg",
-        "image_position": "left",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
-    },
-    "1656603548176cda30": {
-      "type": "image-with-text",
-      "blocks": {
-        "1656603548c1ce4616-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Joseph Chaplain",
-            "text_max_width": 32
-          }
-        },
-        "1656603548c1ce4616-1": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>Joseph (he\/him) is a relatively new writer, currently living in the Peak District with his wife and their cat. When not writing, he can usually be found ambling around the local countryside or playing weird music in a dark room somewhere. His short fiction has been published by Crystal Peake as part of their <a href=\"https:\/\/crystalpeake.co.uk\/books\/folklore-a-dark-anthology\/\"><span style=\"text-decoration:underline\">Dark Folklore anthology<\/span><\/a>, and his poetry has been published by Coverstory Books in their <a href=\"https:\/\/coverstorybooks.com\/new-contexts-1-an-anthology\/\"><span style=\"text-decoration:underline\">New Contexts<\/span><\/a> anthologies.<\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "1656603548c1ce4616-0",
-        "1656603548c1ce4616-1"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/joe_5689362a-e167-4d49-aa89-e31363cbf20f.jpg",
-        "image_position": "right",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
-    },
-    "1656604063e4579a06": {
-      "type": "image-with-text",
-      "blocks": {
-        "16566040634550677a-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Lorraine Schein",
-            "text_max_width": 32
-          }
-        },
-        "16566040634550677a-1": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>Lorraine (she\/her) is a New York writer and sometimes tarot reader. Her work has appeared in VICE <em>Terraform<\/em>, <em>Strange Horizons<\/em>, <em>Witches & Pagans<\/em>, and <em>Mermaids Monthly<\/em>, and in the anthology <em>Tragedy Queens: Stories Inspired by Lana del Rey & Sylvia Plath<\/em>. <em>The Futurist’s Mistress<\/em>, her poetry book, is available from Mayapple Press. Her new book of poetry and science fiction <a href=\"https:\/\/www.amazon.com\/Lady-Anarchist-Caf%C3%A9-Lorraine-Schein\/dp\/157027391X\/\"><span style=\"text-decoration:underline\">The Lady Anarchist Café<\/span><\/a> is out now from Autonomedia.<\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "16566040634550677a-0",
-        "16566040634550677a-1"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/loraine.jpg",
-        "image_position": "left",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
-    },
-    "16566042108a7c2080": {
-      "type": "image-with-text",
-      "blocks": {
-        "165660421007840ffb-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Valentina Alvarez",
-            "text_max_width": 32
-          }
-        },
-        "165660421007840ffb-1": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>Valentina (she\/her) is a visual artist born in Caracas, Venezuela. Her work highlights strength and beauty, motifs linked to the diversity and identity of human beings, through her photography and designs. She searches for the organic expression of bodies in her subjects throughout movements from the ancestral call, the contemporary, and symbolic world. <\/p><p>Follow Valentina: <a href=\"https:\/\/www.instagram.com\/valentinalv\/\"><span style=\"text-decoration:underline\">@valentinalv<\/span><\/a><\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "165660421007840ffb-0",
-        "165660421007840ffb-1"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/vali_fafffeaa-8983-4b15-83bc-8b900707a435.png",
-        "image_position": "right",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
-    },
-    "16566234266a662ce2": {
-      "type": "image-with-text",
-      "blocks": {
-        "16566234260cc9087b-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Alyssa Polizzi",
-            "text_max_width": 32
-          }
-        },
-        "16566234260cc9087b-1": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>Alyssa (she\/her) is an educator, speaker, and coach. She lectures and writes about symbolic and archetypal systems of thought via Jungian theory, mythology, the shadow, dreams, tarot, personality typology, and alchemy. <\/p><p>Follow Alyssa: <a href=\"https:\/\/www.instagram.com\/alyssa.polizzi\/\"><span style=\"text-decoration:underline\">@alyssa.polizzi<\/span><\/a><\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "16566234260cc9087b-0",
-        "16566234260cc9087b-1"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/alyssa_0a6d0e7a-a7f9-435f-b57b-a14b817ff64e.jpg",
-        "image_position": "left",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
-    },
-    "1656604386fdf83e5c": {
-      "type": "image-with-text",
-      "blocks": {
-        "16566043868295dca1-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Nicolas Bruno",
-            "text_max_width": 32
-          }
-        },
-        "16566043868295dca1-1": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>Nicholas (he\/him) is a photographer, artist, and the creator of <a href=\"https:\/\/www.somniatarot.com\/\"><span style=\"text-decoration:underline\">Somnia Tarot<\/span><\/a>. He weaves together his terrifying experiences of sleep paralysis with surreal self-portraiture in a therapeutic translation of night terror to image. His constructed worlds of uncertainty exist on plane between waking and sleeping, where he is tormented by a physical embrace of the subconscious and its perils, all while being paralyzed in bed. Influences of 19th-century Romanticists, historical texts of occultism, and dream symbolism lace each composition with various visual dialogues of the macabre. <\/p><p>Follow Nicolas: <a href=\"https:\/\/www.instagram.com\/nicolasbruno\/\"><span style=\"text-decoration:underline\">@nicolasbruno<\/span><\/a><\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "16566043868295dca1-0",
-        "16566043868295dca1-1"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/Copy_of_SelfPortrait_2_extra_8a736fcb-cd35-4adc-8f44-ece80bf78fec.jpg",
-        "image_position": "right",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
-    },
-    "1656623408c3679281": {
-      "type": "image-with-text",
-      "blocks": {
-        "16566234088be6d7b9-0": {
-          "type": "heading",
-          "settings": {
+            "image_1": "shopify:\/\/shop_images\/sanyu_3b59bfd8-2ff1-42d7-aa65-d88c8bf2a489.jpg",
+            "image_position": "left",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
             "title": "Sanyu Estelle",
-            "text_max_width": 32
-          }
-        },
-        "16566234088be6d7b9-1": {
-          "type": "subheading",
-          "settings": {
+            "text_max_width": 32,
             "subheading": "<p>Sanyu (she\/her) is a Claircognizant (\"clear knowing\") Soothsayer (\"truth teller\") that is also known as \"The Word Witch\" because of her deep love for word origins (etymology) and word culture (philology). She is known for her straightforward card reading style (\"the reading you need, not necessarily the reading you want\") and her way with words via both writing and speaking.<\/p><p>Follow Sanyu: <a href=\"https:\/\/www.instagram.com\/sanyuestelle\/\"><span style=\"text-decoration:underline\">@sanyuestelle<\/span><\/a><\/p>",
-            "text_max_width": 32
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
           }
-        }
-      },
-      "block_order": [
-        "16566234088be6d7b9-0",
-        "16566234088be6d7b9-1"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/sanyu_3b59bfd8-2ff1-42d7-aa65-d88c8bf2a489.jpg",
-        "image_position": "left",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
-    },
-    "1657122229caf3b7ad": {
-      "type": "image-with-text",
-      "blocks": {
-        "1657122229fd3b83db-0": {
-          "type": "heading",
+        },
+        "c9572de0-75b0-4140-93cd-14f097cc0462": {
+          "type": "image_with_text",
           "settings": {
+            "image_1": "shopify:\/\/shop_images\/Anne_Horel_1.jpg",
+            "image_position": "right",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
             "title": "Anne Horel",
-            "text_max_width": 32
-          }
-        },
-        "1657122229fd3b83db-1": {
-          "type": "subheading",
-          "settings": {
+            "text_max_width": 32,
             "subheading": "<p>Anne (she\/her) is a polymorphic visual artist based in Paris. As a GIF pioneer and social media artist, she always thinks ahead of her time. Her polyvalent work took her career in various fields of application, including augmented reality, music video, advertisements, social media content, documentaries, art exhibits, performing arts, NFTs, and even tarot reading. The specificity of Anne Horel is that she is not only the creative brain but also the executive of her projects, even though she also art-directed various ones. Her work has been seen in prestigious art venues such as Time Square, Palais de Tokyo, and EYE Museum in Amsterdam. <\/p><p>Follow Anne: <a href=\"https:\/\/www.instagram.com\/annehorel\/?hl=en\"><span style=\"text-decoration:underline\">@annehorel<\/span><\/a><\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "1657122229fd3b83db-0",
-        "1657122229fd3b83db-1"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/Anne_Horel_1.jpg",
-        "image_position": "right",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
-    },
-    "16566044718953cd2f": {
-      "type": "image-with-text",
-      "blocks": {
-        "1656604471c687b5d1-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Hannah Levy",
-            "text_max_width": 32
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
           }
         },
-        "1656604471c687b5d1-1": {
-          "type": "subheading",
+        "5c7a31af-e417-465d-b397-8910f9bed509": {
+          "type": "image_with_text",
           "settings": {
+            "image_1": "shopify:\/\/shop_images\/hannah.jpg",
+            "image_position": "left",
+            "image_width": "half",
+            "aspect_ratio": "natural",
+            "text_alignment": "left",
+            "title": "Hannah Levy",
+            "text_max_width": 32,
             "subheading": "<p>Hannah (she\/her) is the founder and editor-in-chief of The Rebis. She credits tarot with unearthing her most provocative ideas. In her past lives, she led content marketing and brand strategy for tech companies and served as editor-in-chief of music blog Indie Shuffle. When she’s not reading and writing, you can find her hiking in the redwoods, volunteering at a local rose garden, and playing extensive make-believe games with her daughter. <\/p><p>Follow Hannah: <a href=\"https:\/\/www.instagram.com\/hnnhlvy\/\"><span style=\"text-decoration:underline\">@hnnhlvy<\/span><\/a><\/p>",
-            "text_max_width": 32
+            "sub_text_max_width": 32,
+            "link": "",
+            "link_text": "Read more",
+            "caption": "",
+            "section_contrast": false
           }
         }
       },
       "block_order": [
-        "1656604471c687b5d1-0",
-        "1656604471c687b5d1-1"
+        "d82bc842-b915-4b75-9efb-994e5c91a049",
+        "c9572de0-75b0-4140-93cd-14f097cc0462",
+        "5c7a31af-e417-465d-b397-8910f9bed509"
       ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/hannah.jpg",
-        "image_position": "right",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "caption": "",
-        "section_contrast": false
-      }
+      "settings": {}
     }
   },
   "order": [
@@ -492,17 +329,6 @@
     "1656600057e0ae6385",
     "165660081561350ce5",
     "1656599682bd54a3f3",
-    "16566008868042fd6f",
-    "165660110333534ec9",
-    "1656601286bfb33d1f",
-    "165660129075f893ab",
-    "1656603548176cda30",
-    "1656604063e4579a06",
-    "16566042108a7c2080",
-    "16566234266a662ce2",
-    "1656604386fdf83e5c",
-    "1656623408c3679281",
-    "1657122229caf3b7ad",
-    "16566044718953cd2f"
+    "16566008868042fd6f"
   ]
 }

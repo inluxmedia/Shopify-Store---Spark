@@ -1,0 +1,180 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_max_width": 700
+      }
+    },
+    "93b08fd2-d467-42a2-b3db-dce61fdd7c0a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15570310398089__93b08fd2-d467-42a2-b3db-dce61fdd7c0a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "\"Chariot,\" \"Control,\" \"Surrender,\" and \"Trust\" by Chad Unger",
+            "text_max_width": 42
+          }
+        },
+        "template--15570310398089__93b08fd2-d467-42a2-b3db-dce61fdd7c0a-text-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p>These are companion videos created by Chad Unger to accompany K. Leigh Clapp's essay \"Paradoxical Flow: Signaling the Way in the Chariot,\" featured in the <a href=\"https:\/\/www.therebis.com\/products\/chariot\" target=\"_blank\" title=\"https:\/\/www.therebis.com\/products\/chariot\">The Rebis: Chariot<\/a> anthology.<\/p>",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "template--15570310398089__93b08fd2-d467-42a2-b3db-dce61fdd7c0a-heading-1",
+        "template--15570310398089__93b08fd2-d467-42a2-b3db-dce61fdd7c0a-text-1"
+      ],
+      "settings": {
+        "section_contrast": false
+      }
+    },
+    "81220959-d986-4b2d-97ec-510bbd7e2608": {
+      "type": "video-hero",
+      "settings": {
+        "video_aspect": "original",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1989a141ad584e4996767bd2d390c20b.mp4",
+        "alignment": "center_center",
+        "overlay_shadow": 20,
+        "color_text": "#ffffff",
+        "color_background_button": "#ffffff",
+        "color_text_button": "#181818",
+        "color_overlay": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "bce43cb5-15b4-4686-822e-d51e2d9007d2": {
+      "type": "video-hero",
+      "settings": {
+        "video_aspect": "original",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/a0ecaa4c52ba4beb9de69b88fd6e308e.mp4",
+        "alignment": "left_center",
+        "overlay_shadow": 20,
+        "color_text": "#ffffff",
+        "color_background_button": "#ffffff",
+        "color_text_button": "#181818",
+        "color_overlay": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "8cd22fb9-d681-4bd7-95a1-d24ea11da70f": {
+      "type": "video-hero",
+      "settings": {
+        "video_aspect": "original",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/15352aaa8a7b473886bf7ab93147bddf.mp4",
+        "alignment": "left_center",
+        "overlay_shadow": 20,
+        "color_text": "#ffffff",
+        "color_background_button": "#ffffff",
+        "color_text_button": "#181818",
+        "color_overlay": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "8c70095e-575d-4422-92e1-271159d73d86": {
+      "type": "video-hero",
+      "settings": {
+        "video_aspect": "original",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/9e5d14f0969349d6966b7bcc40355b79.mp4",
+        "alignment": "left_center",
+        "overlay_shadow": 20,
+        "color_text": "#ffffff",
+        "color_background_button": "#ffffff",
+        "color_text_button": "#181818",
+        "color_overlay": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "60b65b7e-c69e-4a53-a710-8331afcacf0c": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "custom_html": "<iframe style=\"border-radius:12px\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/7792P4gajPyO7O6CKn7Nuv?utm_source=generator&amp;theme=0\" width=\"75%\" height=\"352\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"><\/iframe>",
+        "bg_color": "#000000"
+      }
+    },
+    "0810462b-c453-4f39-a199-de366dddde7a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15570310398089__0810462b-c453-4f39-a199-de366dddde7a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Artist statement",
+            "text_max_width": 42
+          }
+        },
+        "template--15570310398089__0810462b-c453-4f39-a199-de366dddde7a-text-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p>\"In the realm of sight and symbolism, I found myself entranced by the dance of our linguistic expressions, woven like intricate threads in the fabric of existence. Yearning to capture this enchantment, I sought to manifest it in the trinity of dimensions, transcending the ordinary confines of two-dimensional photography. Just as the tarot unveils hidden truths through its multifaceted cards, so too did I aspire to reveal the depths of language’s visual tapestry. My initial idea revolves around concealing faces, directing the viewers’ attention towards the expressions of signing and movements. This encapsulates the message Leigh aims to convey to the audience. My intention was to create a somewhat abstract representation as opposed to the conventional, straightforward photographs of individuals signing.\"<\/p>",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "template--15570310398089__0810462b-c453-4f39-a199-de366dddde7a-heading-1",
+        "template--15570310398089__0810462b-c453-4f39-a199-de366dddde7a-text-1"
+      ],
+      "settings": {
+        "section_contrast": false
+      }
+    },
+    "01ad028b-2348-4d3c-9f90-60a59cf65f33": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15570310398089__01ad028b-2348-4d3c-9f90-60a59cf65f33-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "About the artist",
+            "text_max_width": 42
+          }
+        },
+        "template--15570310398089__01ad028b-2348-4d3c-9f90-60a59cf65f33-text-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p><a href=\"https:\/\/www.chadunger.com\/\" target=\"_blank\" title=\"https:\/\/www.chadunger.com\/\">Chad Unger<\/a> is a Deaf-Gay visual artist born in 1993, originally from Maryland, and currently resides in Los Angeles. Growing up in a deaf family and being part of the deaf community, where American Sign Language is the primary mode of communication, shaped Chad into an observant artist who values visually rich stories.  <\/p>",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "template--15570310398089__01ad028b-2348-4d3c-9f90-60a59cf65f33-heading-1",
+        "template--15570310398089__01ad028b-2348-4d3c-9f90-60a59cf65f33-text-1"
+      ],
+      "settings": {
+        "section_contrast": false
+      }
+    },
+    "f470ba01-ad8e-4dfa-91fd-db187551fed1": {
+      "type": "custom-html",
+      "settings": {
+        "custom_html": "<iframe src=\"https:\/\/therebis.substack.com\/embed\" width=\"\" height=\"320\" style=\" background:white; text-align: center;\" frameborder=\"0\" scrolling=\"no\"><\/iframe>",
+        "bg_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "93b08fd2-d467-42a2-b3db-dce61fdd7c0a",
+    "81220959-d986-4b2d-97ec-510bbd7e2608",
+    "bce43cb5-15b4-4686-822e-d51e2d9007d2",
+    "8cd22fb9-d681-4bd7-95a1-d24ea11da70f",
+    "8c70095e-575d-4422-92e1-271159d73d86",
+    "60b65b7e-c69e-4a53-a710-8331afcacf0c",
+    "0810462b-c453-4f39-a199-de366dddde7a",
+    "01ad028b-2348-4d3c-9f90-60a59cf65f33",
+    "f470ba01-ad8e-4dfa-91fd-db187551fed1"
+  ]
+}
