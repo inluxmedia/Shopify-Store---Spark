@@ -14,6 +14,9 @@ html:not(.no-js) .navigation__submenu.active {
 .ff-body ul {
     font-family: 'MyriadPro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', sans-serif !important;
 }
+.video-hero__video-wrapper .video-hero__content-wrapper {
+    position: relative;
+}
 @media (min-width: 60em){
     .footer__groups {
         grid-template-columns:repeat(3, 1fr);

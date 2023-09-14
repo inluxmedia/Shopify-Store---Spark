@@ -7,6 +7,32 @@
         "content_max_width": 700
       }
     },
+    "7cb1df58-9254-43f8-83fa-6bebc5c8fc00": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15531879628937__7cb1df58-9254-43f8-83fa-6bebc5c8fc00-168925926174a7bbd3-0": {
+          "type": "heading",
+          "settings": {
+            "title": "\"Merkaba\" by Kaitlyn Pietras",
+            "text_max_width": 42
+          }
+        },
+        "319b3bdb-bcb3-4e84-a4aa-f305d6fde521": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p>Featured in <a href=\"https:\/\/www.therebis.com\/products\/chariot\" target=\"_blank\" title=\"https:\/\/www.therebis.com\/products\/chariot\">The Rebis: Chariot<\/a> anthology<\/p>",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "template--15531879628937__7cb1df58-9254-43f8-83fa-6bebc5c8fc00-168925926174a7bbd3-0",
+        "319b3bdb-bcb3-4e84-a4aa-f305d6fde521"
+      ],
+      "settings": {
+        "section_contrast": false
+      }
+    },
     "cec664ca-06dc-44bf-813b-670bef7b4f4f": {
       "type": "video-hero",
       "settings": {
@@ -17,10 +43,38 @@
         "alignment": "left_center",
         "overlay_shadow": 20,
         "color_text": "#ffffff",
-        "color_background_button": "#FFFFFF",
+        "color_background_button": "#ffffff",
         "color_text_button": "#181818",
-        "color_overlay": "#000",
+        "color_overlay": "#000000",
         "overlay_opacity": 30
+      }
+    },
+    "a107f55e-44b1-489a-bd00-386ca1011f70": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15570918801545__a107f55e-44b1-489a-bd00-386ca1011f70-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text",
+            "text_max_width": 42
+          }
+        },
+        "template--15570918801545__a107f55e-44b1-489a-bd00-386ca1011f70-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "subheading": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "template--15570918801545__a107f55e-44b1-489a-bd00-386ca1011f70-heading-1",
+        "template--15570918801545__a107f55e-44b1-489a-bd00-386ca1011f70-text-1"
+      ],
+      "settings": {
+        "section_contrast": false
       }
     },
     "c768a08a-a485-4916-86fb-0d5c43344efa": {
@@ -28,24 +82,6 @@
       "settings": {
         "custom_html": "",
         "bg_color": "#000000"
-      }
-    },
-    "7cb1df58-9254-43f8-83fa-6bebc5c8fc00": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15531879628937__7cb1df58-9254-43f8-83fa-6bebc5c8fc00-168925926174a7bbd3-0": {
-          "type": "heading",
-          "settings": {
-            "title": "\"Merkaba\" by Kaitlyn Pietras",
-            "text_max_width": 42
-          }
-        }
-      },
-      "block_order": [
-        "template--15531879628937__7cb1df58-9254-43f8-83fa-6bebc5c8fc00-168925926174a7bbd3-0"
-      ],
-      "settings": {
-        "section_contrast": false
       }
     },
     "60b65b7e-c69e-4a53-a710-8331afcacf0c": {
@@ -94,7 +130,7 @@
         "template--15531879628937__323ece36-28bd-4737-b1cb-cbfcfd427994-168925926174a7bbd3-1": {
           "type": "text",
           "settings": {
-            "subheading": "<p>Kaitlyn Pietras (she\/her) is a queer Jewish visual artist and death doula based in Los Angeles.  She is the co-founder of <a href=\"https:\/\/www.pxtstudio.com\/\" target=\"_blank\" title=\"https:\/\/www.pxtstudio.com\/\">PXT Studio<\/a> and her design work has been seen on stages and in unexpected places across the country as well as internationally. She has a deep love for plants and all things Jewish and magical.<\/p>",
+            "subheading": "<p>Kaitlyn Pietras (she\/her) is a queer Jewish visual artist and <a href=\"https:\/\/www.thejewitchdoula.com\/\" target=\"_blank\" title=\"https:\/\/www.thejewitchdoula.com\/\">death doula<\/a> based in Los Angeles.  She is the co-founder of <a href=\"https:\/\/www.pxtstudio.com\/\" target=\"_blank\" title=\"https:\/\/www.pxtstudio.com\/\">PXT Studio<\/a> and her design work has been seen on stages and in unexpected places across the country as well as internationally. She has a deep love for plants and all things Jewish and mystical.<\/p>",
             "text_max_width": 42
           }
         }
@@ -117,9 +153,10 @@
   },
   "order": [
     "main",
-    "cec664ca-06dc-44bf-813b-670bef7b4f4f",
-    "c768a08a-a485-4916-86fb-0d5c43344efa",
     "7cb1df58-9254-43f8-83fa-6bebc5c8fc00",
+    "cec664ca-06dc-44bf-813b-670bef7b4f4f",
+    "a107f55e-44b1-489a-bd00-386ca1011f70",
+    "c768a08a-a485-4916-86fb-0d5c43344efa",
     "60b65b7e-c69e-4a53-a710-8331afcacf0c",
     "3944d841-7d10-43ed-864c-da2b19fe4d55",
     "323ece36-28bd-4737-b1cb-cbfcfd427994",

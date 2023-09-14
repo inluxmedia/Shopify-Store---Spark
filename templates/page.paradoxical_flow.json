@@ -83,12 +83,33 @@
     },
     "8c70095e-575d-4422-92e1-271159d73d86": {
       "type": "video-hero",
+      "blocks": {
+        "203faad1-8b6f-4a2e-a6d9-8efa7b504b2c": {
+          "type": "heading",
+          "settings": {
+            "title": "Video Hero",
+            "heading_text_size": 64,
+            "text_max_width": 40
+          }
+        },
+        "dacd2dfd-ab23-4af8-9ec3-a3436d311eae": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Feature seamless auto-playing hero videos in this space.<\/p>",
+            "text_max_width": 40
+          }
+        }
+      },
+      "block_order": [
+        "203faad1-8b6f-4a2e-a6d9-8efa7b504b2c",
+        "dacd2dfd-ab23-4af8-9ec3-a3436d311eae"
+      ],
       "settings": {
         "video_aspect": "original",
         "desktop_height": 100,
         "mobile_height": 100,
         "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/9e5d14f0969349d6966b7bcc40355b79.mp4",
-        "alignment": "left_center",
+        "alignment": "center_center",
         "overlay_shadow": 20,
         "color_text": "#ffffff",
         "color_background_button": "#ffffff",

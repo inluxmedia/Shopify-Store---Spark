@@ -46,6 +46,66 @@
   "
 >
   <div class="video-hero__video-wrapper">
+    {% if section.blocks.size > 0 %}
+      <div class="video-hero__content-wrapper">
+        <div
+          class="
+            video-hero__content
+            video-hero__content--h-{{ align[0] }}
+            video-hero__content--v-{{ align[1] }}
+          "
+        >
+          <div class="video-hero__content-inner">
+            {%- for block in section.blocks -%}
+              {%- case block.type -%}
+                {%- when 'heading' -%}
+                  <h4
+                    class="video-hero__heading ff-heading animate"
+                    style="
+                      --text-max-width: {{ block.settings.text_max_width }}rem;
+                      --heading-font-size: {{ block.settings.heading_text_size }}px;
+                    "
+                  >
+                    {{ block.settings.title | newline_to_br }}
+                  </h4>
+  
+                {%- when 'subheading' -%}
+                  <div
+                    class="video-hero__subheading ff-body fs-body-large animate"
+                    style="
+                      --color-text: {{ section.settings.color_text }};
+                      --text-max-width: {{ block.settings.text_max_width }}rem;
+                      --heading-font-size: {{ block.settings.heading_text_size }}px;
+                    "
+                  >
+                    {{ block.settings.subheading }}
+                  </div>
+  
+                {%- when 'button' -%}
+                  <div
+                    class="video-hero__button-wrapper"
+                    style="
+                      --color-background-button: {{ section.settings.color_background_button }};
+                      --color-background-button-hover: {{ color_background_button_hover }};
+                      --color-text-button: {{ section.settings.color_text_button }};
+                    "
+                  >
+                    {%- if block.settings.link != blank and block.settings.link_text != blank -%}
+                      <div class="video-hero__button animate">
+                        <a href="{{ block.settings.link }}" class="btn btn--primary btn--large">
+                          {{ block.settings.link_text }}
+                        </a>
+                      </div>
+                    {%- endif -%}
+  
+                  </div>
+              {%- endcase -%}
+  
+            {%- endfor -%}
+          </div>
+        </div>
+      </div>
+    {% endif %}
     {%- if video_url != blank -%}
       {%- if image_overlay != blank -%}
         {% render 'image' with image: image_overlay, disable_style: disable_style, wrapper_class: 'video-hero__image' %}
@@ -65,64 +125,7 @@
 
     <div class="video-hero__overlay"></div>
 
-    <div class="video-hero__content-wrapper">
-      <div
-        class="
-          video-hero__content
-          video-hero__content--h-{{ align[0] }}
-          video-hero__content--v-{{ align[1] }}
-        "
-      >
-        <div class="video-hero__content-inner">
-          {%- for block in section.blocks -%}
-            {%- case block.type -%}
-              {%- when 'heading' -%}
-                <h4
-                  class="video-hero__heading ff-heading animate"
-                  style="
-                    --text-max-width: {{ block.settings.text_max_width }}rem;
-                    --heading-font-size: {{ block.settings.heading_text_size }}px;
-                  "
-                >
-                  {{ block.settings.title | newline_to_br }}
-                </h4>
 
-              {%- when 'subheading' -%}
-                <div
-                  class="video-hero__subheading ff-body fs-body-large animate"
-                  style="
-                    --color-text: {{ section.settings.color_text }};
-                    --text-max-width: {{ block.settings.text_max_width }}rem;
-                    --heading-font-size: {{ block.settings.heading_text_size }}px;
-                  "
-                >
-                  {{ block.settings.subheading }}
-                </div>
-
-              {%- when 'button' -%}
-                <div
-                  class="video-hero__button-wrapper"
-                  style="
-                    --color-background-button: {{ section.settings.color_background_button }};
-                    --color-background-button-hover: {{ color_background_button_hover }};
-                    --color-text-button: {{ section.settings.color_text_button }};
-                  "
-                >
-                  {%- if block.settings.link != blank and block.settings.link_text != blank -%}
-                    <div class="video-hero__button animate">
-                      <a href="{{ block.settings.link }}" class="btn btn--primary btn--large">
-                        {{ block.settings.link_text }}
-                      </a>
-                    </div>
-                  {%- endif -%}
-
-                </div>
-            {%- endcase -%}
-
-          {%- endfor -%}
-        </div>
-      </div>
-    </div>
   </div>
 </div>
 
