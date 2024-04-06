@@ -83,23 +83,24 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/logo_the_rebis.png",
-          "logo_max_width": 170,
-          "menu": "main-menu-cb",
+          "logo": "shopify:\/\/shop_images\/Photoleap_3.png",
+          "logo_max_width": 250,
+          "menu": "",
           "secondary_menu": "",
-          "style": "inline",
+          "style": "icon",
           "navigation_position": "inline",
           "logo_position": "center",
           "twitter_url": "https:\/\/twitter.com\/the_rebis",
           "instagram_url": "https:\/\/www.instagram.com\/the__rebis\/",
-          "enable_cart_icon": false,
-          "enable_search_icon": false,
-          "enable_transparent_home": false,
+          "enable_cart_icon": true,
+          "enable_search_icon": true,
+          "enable_transparent_home": true,
           "color_text_transparent": "#ffffff",
           "color_icon_transparent": "#ffffff",
           "color_count_transparent": "#000000",
           "color_border_transparent": "#ffffff",
-          "opacity_border_transparent": 0
+          "opacity_border_transparent": 0,
+          "logo_transparent": "shopify:\/\/shop_images\/Photoleap_3.png"
         }
       },
       "footer": {
@@ -152,7 +153,8 @@
           },
           "popup-1": {
             "type": "newsletter_signup",
-            "settings": {}
+            "settings": {
+            }
           }
         },
         "block_order": [
@@ -170,7 +172,9 @@
         }
       }
     },
-    "content_for_index": []
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Chic": {
@@ -294,7 +298,8 @@
             },
             "popup-1": {
               "type": "newsletter_signup",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -443,7 +448,8 @@
             },
             "popup-1": {
               "type": "newsletter_signup",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -569,7 +575,8 @@
             },
             "popup-1": {
               "type": "newsletter_signup",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [

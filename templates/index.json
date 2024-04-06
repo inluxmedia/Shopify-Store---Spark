@@ -6,7 +6,7 @@
         "template--15531879366793__3f5861d0-2f6c-4117-a5dc-e768e465fde2-1687410817870b177b-1": {
           "type": "slide",
           "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/Magazineopen.jpg",
+            "desktop_image": "shopify:\/\/shop_images\/IMG_8196.png",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "A print publication celebrating tarot, art & creative writing",
@@ -71,7 +71,9 @@
         "cd876070-7bc8-4a5b-bfb4-cf0fc3d4ec70",
         "c945e4cd-e7fa-427a-bf7c-13dec4d94467"
       ],
-      "custom_css": [],
+      "custom_css": [
+
+      ],
       "settings": {
         "section_contrast": false
       }
@@ -133,17 +135,16 @@
       "custom_css": [
         "h2 {font-size: 40px;}"
       ],
-      "settings": {}
+      "settings": {
+      }
     },
     "16533471187f2d66b6": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "1653347118692ad000-1": {
           "type": "slide",
           "disabled": true,
           "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/banner_site-final.png",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "",
@@ -165,6 +166,7 @@
       "block_order": [
         "1653347118692ad000-1"
       ],
+      "disabled": true,
       "settings": {
         "image_aspect": "original",
         "desktop_height": 100,
@@ -175,7 +177,6 @@
     },
     "867df555-696d-452a-b829-08dc96abf448": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--15531879366793__867df555-696d-452a-b829-08dc96abf448-16879891425330c345-0": {
           "type": "heading",
@@ -204,6 +205,7 @@
         "template--15531879366793__867df555-696d-452a-b829-08dc96abf448-16879891425330c345-1",
         "830b8931-ded5-494f-8e84-f5dc8231486b"
       ],
+      "disabled": true,
       "custom_css": [
         ".rich-text {margin: 80px 0;}",
         "@media screen and (max-width: 500px) {.rich-text {margin: 20px 0; }}"
