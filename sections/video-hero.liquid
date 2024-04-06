@@ -111,7 +111,7 @@
         {% render 'image' with image: image_overlay, disable_style: disable_style, wrapper_class: 'video-hero__image' %}
       {%- endif -%}
 
-      <video class="video-hero__video" autoplay playsinline loop muted src="{{ video_url }}"></video>
+      <video class="video-hero__video" autoplay playsinline muted src="{{ video_url }}"></video>
       {% render 'video-pause' %}
     {%- else -%}
       {%- if image_overlay != blank -%}
