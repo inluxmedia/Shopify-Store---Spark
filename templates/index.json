@@ -18,6 +18,9 @@
     },
     "featured_collection_3acPyE": {
       "type": "featured-collection",
+      "custom_css": [
+
+      ],
       "settings": {
         "collection": "daddyafcartel-vintage-foundation-collection",
         "columns": 3,
