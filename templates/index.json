@@ -16,6 +16,19 @@
         "overlay_opacity": 0
       }
     },
+    "featured_collection_3acPyE": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "daddyafcartel-vintage-foundation-collection",
+        "columns": 3,
+        "title": "Featured collection",
+        "subheading": "",
+        "link_text": "",
+        "text_max_width": 36,
+        "aspect_ratio": "natural",
+        "section_contrast": false
+      }
+    },
     "3f5861d0-2f6c-4117-a5dc-e768e465fde2": {
       "type": "slideshow",
       "blocks": {
@@ -54,19 +67,6 @@
         "mobile_height": 100,
         "duration_autoplay": 6,
         "color_dot": "#ffffff"
-      }
-    },
-    "featured_collection_3acPyE": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "daddyafcartel-vintage-foundation-collection",
-        "columns": 3,
-        "title": "Featured collection",
-        "subheading": "",
-        "link_text": "",
-        "text_max_width": 36,
-        "aspect_ratio": "natural",
-        "section_contrast": false
       }
     },
     "93aa65ef-1ba2-4f4c-8b5e-6e9410ba4c34": {
@@ -237,8 +237,8 @@
   },
   "order": [
     "16533460773822da77",
-    "3f5861d0-2f6c-4117-a5dc-e768e465fde2",
     "featured_collection_3acPyE",
+    "3f5861d0-2f6c-4117-a5dc-e768e465fde2",
     "93aa65ef-1ba2-4f4c-8b5e-6e9410ba4c34",
     "147ffdee-052a-43b4-8601-7f401c84491e",
     "image-with-text-1",
