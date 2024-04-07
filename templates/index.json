@@ -2,6 +2,9 @@
   "sections": {
     "16533460773822da77": {
       "type": "video-hero",
+      "custom_css": [
+
+      ],
       "settings": {
         "video_aspect": "custom",
         "desktop_height": 100,
@@ -19,7 +22,7 @@
     "featured_collection_3acPyE": {
       "type": "featured-collection",
       "custom_css": [
-        "html {background-color: #oooooo;}"
+        ".featured-collection {background-color: #ffffff; font-palette: #000000;}"
       ],
       "settings": {
         "collection": "daddyafcartel-vintage-foundation-collection",
