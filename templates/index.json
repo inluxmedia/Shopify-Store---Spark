@@ -38,22 +38,23 @@
         "template--15531879366793__3f5861d0-2f6c-4117-a5dc-e768e465fde2-1687410817870b177b-1": {
           "type": "slide",
           "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/IMG_8196.png",
+            "desktop_image": "shopify:\/\/shop_images\/IMG_8201.png",
+            "mobile_image": "shopify:\/\/shop_images\/IMG_8201.png",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "A print publication celebrating tarot, art & creative writing",
             "subheading": "",
-            "heading_text_size": 64,
+            "heading_text_size": 52,
             "overlay_shadow": 0,
-            "max_width_subheading": 70,
-            "link_text": "Order The Rebis: Wheel of Fortune",
+            "max_width_subheading": 48,
+            "link_text": "",
             "link": "shopify:\/\/products\/wheel-of-fortune",
-            "alignment": "center_center",
+            "alignment": "center_bottom",
             "color_text": "#ffffff",
             "color_text_button": "#181818",
             "color_background_button": "#ffffff",
             "color_overlay": "#000000",
-            "overlay_opacity": 28
+            "overlay_opacity": 4
           }
         }
       },
