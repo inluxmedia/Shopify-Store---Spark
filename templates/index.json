@@ -4,8 +4,8 @@
       "type": "video-hero",
       "settings": {
         "video_aspect": "custom",
-        "desktop_height": 90,
-        "mobile_height": 50,
+        "desktop_height": 100,
+        "mobile_height": 80,
         "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/364ea0e75d1d4ef181075480dfefdc1b.mov",
         "alignment": "center_center",
         "overlay_shadow": 10,
