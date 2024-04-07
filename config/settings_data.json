@@ -40,7 +40,7 @@
     "swatch_options": "Color",
     "sale_badge_includes_percent": false,
     "enable_card_hover_options": false,
-    "enable_quick_add": true,
+    "enable_quick_add": false,
     "search_show_articles": true,
     "social_facebook_link": "",
     "social_instagram_link": "https:\/\/www.instagram.com\/the__rebis\/",
