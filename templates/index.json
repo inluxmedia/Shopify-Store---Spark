@@ -19,7 +19,7 @@
     "featured_collection_3acPyE": {
       "type": "featured-collection",
       "custom_css": [
-        "html {background-color: #ffffff;}"
+        "html {background-color: #oooooo;}"
       ],
       "settings": {
         "collection": "daddyafcartel-vintage-foundation-collection",
