@@ -138,9 +138,9 @@
           "ec35a3d9-7222-49ed-b442-446426d178f4"
         ],
         "settings": {
-          "show_locale_selector": false,
+          "show_locale_selector": true,
           "show_currency_selector": false,
-          "show_social_icons": false,
+          "show_social_icons": true,
           "show_payment_icons": false
         }
       },
