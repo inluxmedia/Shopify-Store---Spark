@@ -22,7 +22,7 @@
     "featured_collection_3acPyE": {
       "type": "featured-collection",
       "custom_css": [
-        ".featured-collection {background-color: #ffffff; font-palette: #000000;}"
+        ".featured-collection {background-color: #ffffff; color: #000000;}"
       ],
       "settings": {
         "collection": "daddyafcartel-vintage-foundation-collection",
