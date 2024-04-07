@@ -5,7 +5,7 @@
       "settings": {
         "video_aspect": "custom",
         "desktop_height": 100,
-        "mobile_height": 80,
+        "mobile_height": 90,
         "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/582be5f634ef4e248e0e617cca282aab.mov",
         "alignment": "center_bottom",
         "overlay_shadow": 10,
@@ -24,8 +24,8 @@
       "settings": {
         "collection": "daddyafcartel-vintage-foundation-collection",
         "columns": 3,
-        "title": "Featured collection",
-        "subheading": "",
+        "title": "DaddyAfCartel <br>Vintage Forged Collection",
+        "subheading": "<p>Crafting Cultural Casual Silent Luxury <\/p>",
         "link_text": "",
         "text_max_width": 36,
         "aspect_ratio": "natural",
